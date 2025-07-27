@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+     version="2.0">
+   <channel>
+      <title>Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</title>
+      <link>https://onlinelibrary.wiley.com/journal/1365277x?af=R</link>
+      <description>Table of Contents for Journal of Human Nutrition and Dietetics. List of articles from both the latest and EarlyView issues.</description>
+      <language>en-US</language>
+      <copyright>© The British Dietetic Association Ltd</copyright>
+      <managingEditor>wileyonlinelibrary@wiley.com (Wiley Online Library)</managingEditor>
+      <pubDate>Sat, 26 Jul 2025 07:15:54 +0000</pubDate>
+      <lastBuildDate>Sat, 26 Jul 2025 07:15:54 +0000</lastBuildDate>
+      <generator>Atypon® Literatum™</generator>
+      <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+      <ttl>10080</ttl>
+      <dc:title>Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</dc:title>
+      <dc:publisher>Wiley</dc:publisher>
+      <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+      <atom:link href="https://onlinelibrary.wiley.com/journal/1365277x?af=R"
+                 rel="self"
+                 type="application/atom+xml"/>
+      <image>
+         <title>Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</title>
+         <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/1365277x.jpg</url>
+         <link>https://onlinelibrary.wiley.com/journal/1365277x?af=R</link>
+      </image>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70099?af=R</link>
+         <pubDate>Thu, 24 Jul 2025 22:34:13 -0700</pubDate>
+         <dc:date>2025-07-24T10:34:13-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70099</guid>
+         <title>Nutritional Status of Children Diagnosed With Autism Spectrum Disorder: A Systematic Review and Meta‐Analysis</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>A series of meta‐analysis from cross‐sectional studies showed that children diagnosed with Autism Spectrum Disorders were statistically significantly shorter than typically developing children, which was explained by the lower protein intake and fat‐ and water‐soluble vitamin status and intake. These findings warrant further longitudinal population‐based studies.
+
+
+
+
+ABSTRACT
+Autism spectrum disorder (ASD) may impact feeding behaviours, which can affect physical development. We aimed to examine published evidence comparing nutritional status, defined as anthropometry, micronutrient status, and intakes and dietary intake, of children with ASD with those of typically developing children (TDC). Eligibility criteria included any studies that compared nutritional status among children with ASD and TDC. PubMed, Web of Science, Scopus and CENTRAL were searched. We used standardized mean difference (SMD) as an effect size for continuous variables and risk ratio (RR) for dichotomous variables with a 95% confidence interval (CI). Thirty‐two studies with 18,480 children (ASD: 2955, TDC: 15,525) were included in our meta‐analysis. Children with ASD were statistically significantly shorter than TDC (SMD: −0.16, 95% CI [−0.28, −0.04], I2 = 7%), but no difference in weight [−0.12, 95% CI (−0.17, 0.92)] and BMI [−0.06, 95% CI (−0.32, 0.20)]. They had decreased intake of protein [−0.34, 95% CI (−0.52, −0.15)] and nearly all lipid‐soluble vitamins: vitamin A (SMD: −0.20, 95% CI [−0.38, −0.02], I2 = 37%), vitamin D (SMD: −0.30, 95% CI [−0.53, −0.03], I2 = 50%), and vitamin K (SMD: −41, 95% CI [−0.71, −0.10], I2 = 0%). Also, children with ASD had a statistically significantly decreased intake of some water‐soluble vitamins like folate, riboflavin, thiamine and niacin. Decreased levels of some micronutrients like vitamin D and folate was also found. Children with ASD are statistically significantly shorter than TDC, which can be explained by the lower protein intake and fat‐ and water‐soluble vitamin status and intake. These findings warrant further longitudinal population‐based studies.</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/608cfeab-e4ce-4280-b078-8d625a65dfea/jhn70099-gra-0001-m.png"
+     alt="Nutritional Status of Children Diagnosed With Autism Spectrum Disorder: A Systematic Review and Meta-Analysis"/&gt;&lt;p&gt;A series of meta-analysis from cross-sectional studies showed that children diagnosed with Autism Spectrum Disorders were statistically significantly shorter than typically developing children, which was explained by the lower protein intake and fat- and water-soluble vitamin status and intake. These findings warrant further longitudinal population-based studies.
+&lt;/p&gt;&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Autism spectrum disorder (ASD) may impact feeding behaviours, which can affect physical development. We aimed to examine published evidence comparing nutritional status, defined as anthropometry, micronutrient status, and intakes and dietary intake, of children with ASD with those of typically developing children (TDC). Eligibility criteria included any studies that compared nutritional status among children with ASD and TDC. PubMed, Web of Science, Scopus and CENTRAL were searched. We used standardized mean difference (SMD) as an effect size for continuous variables and risk ratio (RR) for dichotomous variables with a 95% confidence interval (CI). Thirty-two studies with 18,480 children (ASD: 2955, TDC: 15,525) were included in our meta-analysis. Children with ASD were statistically significantly shorter than TDC (SMD: −0.16, 95% CI [−0.28, −0.04], &lt;i&gt;I&lt;/i&gt;
+&lt;sup&gt;2&lt;/sup&gt; = 7%), but no difference in weight [−0.12, 95% CI (−0.17, 0.92)] and BMI [−0.06, 95% CI (−0.32, 0.20)]. They had decreased intake of protein [−0.34, 95% CI (−0.52, −0.15)] and nearly all lipid-soluble vitamins: vitamin A (SMD: −0.20, 95% CI [−0.38, −0.02], &lt;i&gt;I&lt;/i&gt;
+&lt;sup&gt;2&lt;/sup&gt; = 37%), vitamin D (SMD: −0.30, 95% CI [−0.53, −0.03], &lt;i&gt;I&lt;/i&gt;
+&lt;sup&gt;2&lt;/sup&gt; = 50%), and vitamin K (SMD: −41, 95% CI [−0.71, −0.10], &lt;i&gt;I&lt;/i&gt;
+&lt;sup&gt;2&lt;/sup&gt; = 0%). Also, children with ASD had a statistically significantly decreased intake of some water-soluble vitamins like folate, riboflavin, thiamine and niacin. Decreased levels of some micronutrients like vitamin D and folate was also found. Children with ASD are statistically significantly shorter than TDC, which can be explained by the lower protein intake and fat- and water-soluble vitamin status and intake. These findings warrant further longitudinal population-based studies.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Afnan Alhrbi, 
+Dimitris Vlachopoulos, 
+Ellie‐Mae Healey, 
+Ahmed Taher Massoud, 
+Christopher Morris, 
+Raquel Revuelta Iniesta
+</dc:creator>
+         <category>META‐ANALYSIS</category>
+         <dc:title>Nutritional Status of Children Diagnosed With Autism Spectrum Disorder: A Systematic Review and Meta‐Analysis</dc:title>
+         <dc:identifier>10.1111/jhn.70099</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70099</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70099?af=R</prism:url>
+         <prism:section>META‐ANALYSIS</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70103?af=R</link>
+         <pubDate>Thu, 24 Jul 2025 22:33:25 -0700</pubDate>
+         <dc:date>2025-07-24T10:33:25-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70103</guid>
+         <title>The Impact of Experiential Learning Using an Indoor Aquaponic System on Nutrition Students' Sustainable Food Knowledge and Behaviour</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+ABSTRACT
+
+Aims
+Nutrition and dietetics students are future change agents for sustainable food systems, yet sustainability education remains limited in university curricula. This study evaluated the impact of an experiential learning activity using an indoor aquaponic system on students' knowledge, attitudes and behavioural intentions towards sustainable diets.
+
+
+Methods
+An embedded mixed methods pre−post survey captured baseline data on students' sustainable diet knowledge, attitudes and behaviours, alongside diet quality (using the Australian Recommended Food Score). Students then participated in an interactive experiential learning activity involving an indoor aquaponic system. Post‐activity surveys assessed changes in knowledge and behaviour intentions, as well as perceptions of the learning experience. Quantitative data were analysed using chi‐square tests, regression and McNemar−Bowker tests; qualitative responses were thematically analysed.
+
+
+Results
+At baseline, students (n = 58, 87.9% female) reported limited knowledge of local food systems, though most valued sustainable food practices. Students who placed high importance on sustainable diets were significantly more likely to engage in sustainable dietary behaviours. Diet quality was significantly higher among students who grew their own food, bought locally or purchased seasonal produce (all p &lt; 0.05). Participation in the experiential learning activity significantly improved students' self‐reported knowledge of local food systems (p &lt; 0.001) and increased their intentions towards buying locally‐grown (57.9% to 86.8%, p &lt; 0.001) and growing food (36.8% to 78.9%, p &lt; 0.001). Thematic analysis highlighted students' increased awareness of sustainability complexity, their role as nutrition professionals and the importance of curriculum integration.
+
+
+Conclusion
+Experiential learning with an indoor aquaponic system enhanced students' knowledge and intentions related to sustainable diets. Students who engaged in sustainable behaviours had significantly higher diet quality, highlighting the potential dual benefit of curriculum integration. Embedding sustainability‐focused learning in nutrition curricula may better prepare students to lead change in food systems.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;Nutrition and dietetics students are future change agents for sustainable food systems, yet sustainability education remains limited in university curricula. This study evaluated the impact of an experiential learning activity using an indoor aquaponic system on students' knowledge, attitudes and behavioural intentions towards sustainable diets.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;An embedded mixed methods pre−post survey captured baseline data on students' sustainable diet knowledge, attitudes and behaviours, alongside diet quality (using the Australian Recommended Food Score). Students then participated in an interactive experiential learning activity involving an indoor aquaponic system. Post-activity surveys assessed changes in knowledge and behaviour intentions, as well as perceptions of the learning experience. Quantitative data were analysed using chi-square tests, regression and McNemar−Bowker tests; qualitative responses were thematically analysed.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;At baseline, students (&lt;i&gt;n&lt;/i&gt; = 58, 87.9% female) reported limited knowledge of local food systems, though most valued sustainable food practices. Students who placed high importance on sustainable diets were significantly more likely to engage in sustainable dietary behaviours. Diet quality was significantly higher among students who grew their own food, bought locally or purchased seasonal produce (all &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.05). Participation in the experiential learning activity significantly improved students' self-reported knowledge of local food systems (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001) and increased their intentions towards buying locally-grown (57.9% to 86.8%, &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001) and growing food (36.8% to 78.9%, &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001). Thematic analysis highlighted students' increased awareness of sustainability complexity, their role as nutrition professionals and the importance of curriculum integration.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Experiential learning with an indoor aquaponic system enhanced students' knowledge and intentions related to sustainable diets. Students who engaged in sustainable behaviours had significantly higher diet quality, highlighting the potential dual benefit of curriculum integration. Embedding sustainability-focused learning in nutrition curricula may better prepare students to lead change in food systems.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Isabelle Crowe, 
+Karen E. Charlton, 
+Anne‐Therese McMahon, 
+Indiana Rhind, 
+Katherine Kent
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>The Impact of Experiential Learning Using an Indoor Aquaponic System on Nutrition Students' Sustainable Food Knowledge and Behaviour</dc:title>
+         <dc:identifier>10.1111/jhn.70103</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70103</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70103?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70104?af=R</link>
+         <pubDate>Thu, 24 Jul 2025 02:46:58 -0700</pubDate>
+         <dc:date>2025-07-24T02:46:58-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70104</guid>
+         <title>Gut‐Brain Axis and Migraine: Rates of Improvement and Predictors of Response After a Low‐FODMAP, Low‐Starch and Low‐Sucrose Dietary Intervention</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+ABSTRACT
+
+Background
+The benefits of diets on patients with migraine remain elusive. We aimed to determine rates of improvement and predictors of response of migraine after an intensive dietary intervention.
+
+
+Methods
+We performed a quasi‐experimental pre‐post study including patients with self‐reported digestive functional disorders and migraine undertaking a social‐media based program with a 2‐week dietary intervention (low‐FODMAP, low‐starch and low‐ sucrose diet). Migraine improvement was defined as a decrease of at least 50% in intensity or frequency of headaches. Independent variables associated with clinical improvement were identified with multivariable logistic regression analysis.
+
+
+Results
+A total of 7677 patients with migraine and digestive disorders undertook the B15 program; 4628 (60.3%) showed improvement of migraine after the dietary intervention. The intensity (6.1 vs. 3.8) and frequency (3.4 days vs. 2.5 days) of headaches significantly reduced after the diet. Patients who improved were younger and more likely to report heartburn and dyspepsia. The presence of depressive symptoms was also more common in patients with response. The mean Migraine Disability Assessment (MIDAS) score was significantly higher in patients with good response (27.5 vs. 18.5). Age, presence of dyspepsia, higher MIDAS score, and migraine with severe disability were independent predictors of migraine improvement.
+
+
+Conclusions
+A low‐FODMAP diet was associated with improvement of migraine in a large proportion of patients with functional digestive disorders. Further research on how dietary approaches targeting the gut‐brain axis can improve the quality of life of patients with digestive disorders and migraine is needed.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;h2&gt;Background&lt;/h2&gt;
+&lt;p&gt;The benefits of diets on patients with migraine remain elusive. We aimed to determine rates of improvement and predictors of response of migraine after an intensive dietary intervention.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;We performed a quasi-experimental pre-post study including patients with self-reported digestive functional disorders and migraine undertaking a social-media based program with a 2-week dietary intervention (low-FODMAP, low-starch and low- sucrose diet). Migraine improvement was defined as a decrease of at least 50% in intensity or frequency of headaches. Independent variables associated with clinical improvement were identified with multivariable logistic regression analysis.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;A total of 7677 patients with migraine and digestive disorders undertook the B15 program; 4628 (60.3%) showed improvement of migraine after the dietary intervention. The intensity (6.1 vs. 3.8) and frequency (3.4 days vs. 2.5 days) of headaches significantly reduced after the diet. Patients who improved were younger and more likely to report heartburn and dyspepsia. The presence of depressive symptoms was also more common in patients with response. The mean Migraine Disability Assessment (MIDAS) score was significantly higher in patients with good response (27.5 vs. 18.5). Age, presence of dyspepsia, higher MIDAS score, and migraine with severe disability were independent predictors of migraine improvement.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;A low-FODMAP diet was associated with improvement of migraine in a large proportion of patients with functional digestive disorders. Further research on how dietary approaches targeting the gut-brain axis can improve the quality of life of patients with digestive disorders and migraine is needed.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Facundo Pereyra, 
+Francisco Schlottmann, 
+Edgar Carnero Contentti, 
+Carolina Salvatori, 
+Sofía Barbagelata, 
+Leandro Steinberg, 
+Lisandro Pereyra
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Gut‐Brain Axis and Migraine: Rates of Improvement and Predictors of Response After a Low‐FODMAP, Low‐Starch and Low‐Sucrose Dietary Intervention</dc:title>
+         <dc:identifier>10.1111/jhn.70104</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70104</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70104?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70101?af=R</link>
+         <pubDate>Tue, 22 Jul 2025 21:54:50 -0700</pubDate>
+         <dc:date>2025-07-22T09:54:50-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70101</guid>
+         <title>Nutrition Focused Physical Examination Components Specific to Older Adults: A Modified Delphi Study</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+ABSTRACT
+
+Background
+The number of older adults will double worldwide by 2050, impacting the social system with higher healthcare personnel needs and economic costs. Registered dietitian nutritionists play a critical role in the holistic management of chronic diseases and related nutritional problems. Thereby, a comprehensive nutritional assessment should include a nutrition‐focused physical examination (NFPE) to ensure early identification of nutrition‐related problems. However, explicit NFPE components across different assessment categories (NFPE+) of the Nutrition Care Process for older adults are lacking.
+
+
+Methods
+This modified Delphi study aimed to identify NFPE+ components specific to older adults (≥ 65 years) through a literature review and to obtain consensus about the relevance and usefulness of these components among international dietitian experts in gerontology nutrition. Experts rated how useful and relevant the identified NFPE+ domains and components were using a 5‐point Likert‐type scale. Open‐ended answers allowed the experts to suggest new components or propose adjustments to the identified components. Consensus was defined a priori at 75% agreement.
+
+
+Results
+The literature review identified 30 NFPE+ components specific to older adults. The Delphi panel comprised of 15 experts from eight countries with 23.5 (±11.5) years of experience in geriatric nutrition. All 30 proposed NFPE+ components and three newly suggested components achieved consensus through two Delphi rounds. These 33 components were categorized into five NFPE+ domains in a finalized NFPE+ tool.
+
+
+Conclusions
+NFPE+ domains and components specific to older adults may significantly contribute to a focused and comprehensive nutritional assessment in older adults.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;h2&gt;Background&lt;/h2&gt;
+&lt;p&gt;The number of older adults will double worldwide by 2050, impacting the social system with higher healthcare personnel needs and economic costs. Registered dietitian nutritionists play a critical role in the holistic management of chronic diseases and related nutritional problems. Thereby, a comprehensive nutritional assessment should include a nutrition-focused physical examination (NFPE) to ensure early identification of nutrition-related problems. However, explicit NFPE components across different assessment categories (NFPE+) of the Nutrition Care Process for older adults are lacking.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;This modified Delphi study aimed to identify NFPE+ components specific to older adults (≥ 65 years) through a literature review and to obtain consensus about the relevance and usefulness of these components among international dietitian experts in gerontology nutrition. Experts rated how useful and relevant the identified NFPE+ domains and components were using a 5-point Likert-type scale. Open-ended answers allowed the experts to suggest new components or propose adjustments to the identified components. Consensus was defined a priori at 75% agreement.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;The literature review identified 30 NFPE+ components specific to older adults. The Delphi panel comprised of 15 experts from eight countries with 23.5 (±11.5) years of experience in geriatric nutrition. All 30 proposed NFPE+ components and three newly suggested components achieved consensus through two Delphi rounds. These 33 components were categorized into five NFPE+ domains in a finalized NFPE+ tool.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;NFPE+ domains and components specific to older adults may significantly contribute to a focused and comprehensive nutritional assessment in older adults.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Christina E. Gassmann, 
+Caroline M. Kiss, 
+Alainn Bailey, 
+Laura Byham‐Gray, 
+Diane L. Rigassio Radler
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Nutrition Focused Physical Examination Components Specific to Older Adults: A Modified Delphi Study</dc:title>
+         <dc:identifier>10.1111/jhn.70101</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70101</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70101?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70100?af=R</link>
+         <pubDate>Mon, 21 Jul 2025 23:29:25 -0700</pubDate>
+         <dc:date>2025-07-21T11:29:25-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70100</guid>
+         <title>Management of Constipation in Eating Disorders—A Scoping Review</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+
+
+
+
+ABSTRACT
+
+Background
+Constipation is a common nutrition impact symptom experienced by the eating disorder population.
+
+
+Objective
+The aim of this scoping review was to identify current recommendations and evidence for managing constipation within the eating disorders population, specifically anorexia nervosa (AN) and bulimia nervosa (BN).
+
+
+Method
+Using a scoping review framework, a search of relevant databases (MEDLINE (Ovid), Cinahl, Web of Science and Embase) was undertaken using MESH terms. Keywords included: feeding and eating disorders', constipation', gastrointestinal disease'. Reference lists and grey literature were searched. Studies were included if they included a discussion on constipation management in eating disorders and published in English. Data was extracted from the papers; management options were categorized based on common themes.
+
+
+Results
+Twenty‐eight studies met inclusion criteria. Suggested management strategies from articles were categorized into five themes: weight restoration (including regular eating), fibre, fluid, medication (including laxative withdrawal) and education. The strongest recommendations are that normalization of weight positively reduces rates of constipation within four to twelve weeks. There is some consistency in recommendations for increased fibre intake, increased fluid intake, medication use and patient education, but conflicting recommendations on laxative withdrawal.
+
+
+Discussion
+There is strong evidence to support for the role of weight restoration in the management of constipation in AN and BN. This is an area that needs more specialized research and practical recommendations particularly in regard to fibre, fluid, medication use, cessation of laxatives and patient and clinician education.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/96cc3ee2-a360-4387-9b0a-ce7541530a9e/jhn70100-gra-0001-m.png"
+     alt="Management of Constipation in Eating Disorders—A Scoping Review"/&gt;&lt;p&gt;
+&lt;/p&gt;&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;h2&gt;Background&lt;/h2&gt;
+&lt;p&gt;Constipation is a common nutrition impact symptom experienced by the eating disorder population.&lt;/p&gt;
+&lt;h2&gt;Objective&lt;/h2&gt;
+&lt;p&gt;The aim of this scoping review was to identify current recommendations and evidence for managing constipation within the eating disorders population, specifically anorexia nervosa (AN) and bulimia nervosa (BN).&lt;/p&gt;
+&lt;h2&gt;Method&lt;/h2&gt;
+&lt;p&gt;Using a scoping review framework, a search of relevant databases (MEDLINE (Ovid), Cinahl, Web of Science and Embase) was undertaken using MESH terms. Keywords included: feeding and eating disorders', constipation', gastrointestinal disease'. Reference lists and grey literature were searched. Studies were included if they included a discussion on constipation management in eating disorders and published in English. Data was extracted from the papers; management options were categorized based on common themes.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Twenty-eight studies met inclusion criteria. Suggested management strategies from articles were categorized into five themes: weight restoration (including regular eating), fibre, fluid, medication (including laxative withdrawal) and education. The strongest recommendations are that normalization of weight positively reduces rates of constipation within four to twelve weeks. There is some consistency in recommendations for increased fibre intake, increased fluid intake, medication use and patient education, but conflicting recommendations on laxative withdrawal.&lt;/p&gt;
+&lt;h2&gt;Discussion&lt;/h2&gt;
+&lt;p&gt;There is strong evidence to support for the role of weight restoration in the management of constipation in AN and BN. This is an area that needs more specialized research and practical recommendations particularly in regard to fibre, fluid, medication use, cessation of laxatives and patient and clinician education.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Bridget Heathcote, 
+Sharon Carey
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Management of Constipation in Eating Disorders—A Scoping Review</dc:title>
+         <dc:identifier>10.1111/jhn.70100</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70100</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70100?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70083?af=R</link>
+         <pubDate>Mon, 21 Jul 2025 23:18:45 -0700</pubDate>
+         <dc:date>2025-07-21T11:18:45-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70083</guid>
+         <title>Menu Assessment Tools Used in Residential Aged Care: A Scoping Review of Content and Quality</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+ABSTRACT
+This scoping review aimed to identify and synthesise existing publicly available tools that support menu assessments for residential aged care settings, specifically the tools content areas, recommendations and quality. The scoping review was conducted according to Levac et al. scoping review methodology and reported following the Preferred Reporting Items for Systematic Review and Meta‐Analyses extension for Scoping Reviews. Menu assessment tools were identified through grey literature through Google and Google Scholar search engines using key terms such as ‘residential aged care’ and ‘menu assessment’. Data were synthesised and reported narratively, according to content areas of menu planning, nutritional basis of the menu, texture modification/fluid consistency, therapeutic and special diets and foodservice management recommendations. Quality appraisal was conducted using the Appraisal of Guidelines for REsearch &amp; Evaluation Instrument. Seventeen tools from seven countries were included. There was variability in the content and recommendations, with no included tool covering all content areas. The overall quality ranged from two to six (out of seven), and no tools met the quality criteria to be recommended for use in their current form. The lack of consistency in content areas, recommendations and quality of tools indicates the need to modify existing tools or to conduct research to support the development of a new evidence‐based tool. Future research is needed to gain consensus on acceptable content areas, appropriate recommendations and to develop an evidence‐base to underpin the tools. A purpose‐built, evidence‐based tool is essential for consistent foodservice evaluation and for improving food and nutrition standards, ultimately enhancing resident outcomes.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;This scoping review aimed to identify and synthesise existing publicly available tools that support menu assessments for residential aged care settings, specifically the tools content areas, recommendations and quality. The scoping review was conducted according to Levac et al. scoping review methodology and reported following the Preferred Reporting Items for Systematic Review and Meta-Analyses extension for Scoping Reviews. Menu assessment tools were identified through grey literature through Google and Google Scholar search engines using key terms such as ‘residential aged care’ and ‘menu assessment’. Data were synthesised and reported narratively, according to content areas of menu planning, nutritional basis of the menu, texture modification/fluid consistency, therapeutic and special diets and foodservice management recommendations. Quality appraisal was conducted using the Appraisal of Guidelines for REsearch &amp;amp; Evaluation Instrument. Seventeen tools from seven countries were included. There was variability in the content and recommendations, with no included tool covering all content areas. The overall quality ranged from two to six (out of seven), and no tools met the quality criteria to be recommended for use in their current form. The lack of consistency in content areas, recommendations and quality of tools indicates the need to modify existing tools or to conduct research to support the development of a new evidence-based tool. Future research is needed to gain consensus on acceptable content areas, appropriate recommendations and to develop an evidence-base to underpin the tools. A purpose-built, evidence-based tool is essential for consistent foodservice evaluation and for improving food and nutrition standards, ultimately enhancing resident outcomes.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Karly Bartrim, 
+Alice Pashley, 
+Mikaela Wheeler, 
+Lily Chen, 
+Lisa Sossen, 
+Tracy Hancock, 
+Danielle Cave
+</dc:creator>
+         <category>SYSTEMATIC REVIEW</category>
+         <dc:title>Menu Assessment Tools Used in Residential Aged Care: A Scoping Review of Content and Quality</dc:title>
+         <dc:identifier>10.1111/jhn.70083</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70083</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70083?af=R</prism:url>
+         <prism:section>SYSTEMATIC REVIEW</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70097?af=R</link>
+         <pubDate>Mon, 21 Jul 2025 23:15:17 -0700</pubDate>
+         <dc:date>2025-07-21T11:15:17-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70097</guid>
+         <title>Exploring the Nutrition‐Related Healthcare Experiences of Individuals With Endometriosis: Qualitative Interviews With Consumers and Dietitians</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+ABSTRACT
+
+Introduction
+Endometriosis is a chronic and incurable inflammatory disease. Traditionally, symptom management involves medical and surgical intervention; however, dietary modification has grown in popularity. While evidence for the effectiveness of dietary interventions for symptom management is emerging, little is known about the nutrition‐related healthcare experiences of both consumers and dietitians. This study aimed to explore the nutrition‐related healthcare experiences of individuals with endometriosis from both dietitian and consumer perspectives.
+
+
+Methods
+One‐on‐one, semi‐structured interviews with dietitians (n = 9) and individuals with endometriosis aged 18 years or older (n = 15) were conducted online between March and June 2024. Interview protocols were developed using the Theoretical Domains Framework and explored topics including self‐directed diet modifications, access and referrals to dietitians, and confidence in managing endometriosis with diet. The Framework Method was used for data analysis.
+
+
+Results
+Four themes were generated including: [1] Need for individualised care, [2] Demand for healthcare system changes, [3] Importance of trusted voices for both individuals with endometriosis and practitioners and [4] Demand for further disease research. Sub‐themes identified included self‐advocacy, financial burdens, limited accesses to nutrition care, the need for earlier dietary intervention, lacking referral pathways for dietitians in the management of endometriosis, and the need for improved access to clinical support for dietitians providing endometriosis care.
+
+
+Conclusions
+Despite consumer demand there remains a lack of recognition and access to appropriate nutrition support for individuals with endometriosis. Systems changes including clear referral pathways, access to credible nutrition information sources and clinical support are needed to enhance symptom management for individuals with endometriosis.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Endometriosis is a chronic and incurable inflammatory disease. Traditionally, symptom management involves medical and surgical intervention; however, dietary modification has grown in popularity. While evidence for the effectiveness of dietary interventions for symptom management is emerging, little is known about the nutrition-related healthcare experiences of both consumers and dietitians. This study aimed to explore the nutrition-related healthcare experiences of individuals with endometriosis from both dietitian and consumer perspectives.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;One-on-one, semi-structured interviews with dietitians (&lt;i&gt;n&lt;/i&gt; = 9) and individuals with endometriosis aged 18 years or older (&lt;i&gt;n&lt;/i&gt; = 15) were conducted online between March and June 2024. Interview protocols were developed using the Theoretical Domains Framework and explored topics including self-directed diet modifications, access and referrals to dietitians, and confidence in managing endometriosis with diet. The Framework Method was used for data analysis.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Four themes were generated including: [1] Need for individualised care, [2] Demand for healthcare system changes, [3] Importance of trusted voices for both individuals with endometriosis and practitioners and [4] Demand for further disease research. Sub-themes identified included self-advocacy, financial burdens, limited accesses to nutrition care, the need for earlier dietary intervention, lacking referral pathways for dietitians in the management of endometriosis, and the need for improved access to clinical support for dietitians providing endometriosis care.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Despite consumer demand there remains a lack of recognition and access to appropriate nutrition support for individuals with endometriosis. Systems changes including clear referral pathways, access to credible nutrition information sources and clinical support are needed to enhance symptom management for individuals with endometriosis.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Sharnie Dwyer, 
+Lana J. Mitchell, 
+Lisa Moran, 
+Lisa Vincze
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Exploring the Nutrition‐Related Healthcare Experiences of Individuals With Endometriosis: Qualitative Interviews With Consumers and Dietitians</dc:title>
+         <dc:identifier>10.1111/jhn.70097</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70097</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70097?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70098?af=R</link>
+         <pubDate>Thu, 17 Jul 2025 21:54:54 -0700</pubDate>
+         <dc:date>2025-07-17T09:54:54-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70098</guid>
+         <title>Surveying Dietary Beliefs of Patients With Inflammatory Bowel Disease and Their Treating Clinicians—Have These Changed Over Time?</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+ABSTRACT
+
+Introduction
+The role of diet in inflammatory bowel disease (IBD) remains controversial, with limited clinical guidelines available. There is increasing evidence of the potential role of diet as therapy in IBD. We conducted a survey nearly a decade ago assessing the perspectives of patients and clinicians on diet and IBD and found that whilst patients believed diet was important for IBD, clinicians had heterogeneous views. This study aimed to determine whether those views have changed over time.
+
+
+Methods
+We conducted a cross‐sectional study in Australia targeting members of national IBD organisations—one survey was sent to patients, the other sent to clinicians. The questionnaires collected data on demographics, disease phenotype, dietary awareness and beliefs. Responses were compared to the index survey responses using the χ2 or Fisher's exact tests.
+
+
+Results
+Eighty‐two patients completed the survey (72% female; median age 40; 52% Crohn's disease; 47% ulcerative colitis). Most (89%) felt diet was important to their IBD. Almost half (49%) felt their diet could be improved and 39% had not seen a dietitian. Compared to the index survey, current patients were more likely to believe diet affects their IBD (78% vs. 89%, p = 0.019). Fifty clinicians (gastroenterologists, dietitians, surgeons and nurses) completed the clinician survey. Over 82% believed diet plays a role in IBD pathogenesis, symptoms, complications, microbiota, and treatment response. This was a shift from the index study, where the role of diet in pathogenesis was more debated (31%). Most clinicians (78%) thought exclusive enteral nutrition and the Crohn's Disease Exclusion Diet were effective, with most (87%) non‐dietitian clinicians referring to dietitians for these therapies. Despite this, 57% of clinicians felt their views differed from their patients'—similar rates to previous. While 94% of clinicians reported providing dietary education, only 18% of patients reported receiving such advice from their specialist—a gap similar to that in the index study (98% and 26%, respectively).
+
+
+Conclusion
+Although patients and clinicians are increasingly recognising the role of diet in IBD, a persistent communication gap may contribute to heterogeneous and poorly followed dietary advice.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The role of diet in inflammatory bowel disease (IBD) remains controversial, with limited clinical guidelines available. There is increasing evidence of the potential role of diet as therapy in IBD. We conducted a survey nearly a decade ago assessing the perspectives of patients and clinicians on diet and IBD and found that whilst patients believed diet was important for IBD, clinicians had heterogeneous views. This study aimed to determine whether those views have changed over time.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;We conducted a cross-sectional study in Australia targeting members of national IBD organisations—one survey was sent to patients, the other sent to clinicians. The questionnaires collected data on demographics, disease phenotype, dietary awareness and beliefs. Responses were compared to the index survey responses using the &lt;i&gt;χ&lt;/i&gt;
+&lt;sup&gt;2&lt;/sup&gt; or Fisher's exact tests.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Eighty-two patients completed the survey (72% female; median age 40; 52% Crohn's disease; 47% ulcerative colitis). Most (89%) felt diet was important to their IBD. Almost half (49%) felt their diet could be improved and 39% had not seen a dietitian. Compared to the index survey, current patients were more likely to believe diet affects their IBD (78% vs. 89%, &lt;i&gt;p&lt;/i&gt; = 0.019). Fifty clinicians (gastroenterologists, dietitians, surgeons and nurses) completed the clinician survey. Over 82% believed diet plays a role in IBD pathogenesis, symptoms, complications, microbiota, and treatment response. This was a shift from the index study, where the role of diet in pathogenesis was more debated (31%). Most clinicians (78%) thought exclusive enteral nutrition and the Crohn's Disease Exclusion Diet were effective, with most (87%) non-dietitian clinicians referring to dietitians for these therapies. Despite this, 57% of clinicians felt their views differed from their patients'—similar rates to previous. While 94% of clinicians reported providing dietary education, only 18% of patients reported receiving such advice from their specialist—a gap similar to that in the index study (98% and 26%, respectively).&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Although patients and clinicians are increasingly recognising the role of diet in IBD, a persistent communication gap may contribute to heterogeneous and poorly followed dietary advice.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Nikita Parkash, 
+Darcy Holt, 
+Gregory T. Moore
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Surveying Dietary Beliefs of Patients With Inflammatory Bowel Disease and Their Treating Clinicians—Have These Changed Over Time?</dc:title>
+         <dc:identifier>10.1111/jhn.70098</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70098</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70098?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70094?af=R</link>
+         <pubDate>Mon, 14 Jul 2025 00:19:41 -0700</pubDate>
+         <dc:date>2025-07-14T12:19:41-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70094</guid>
+         <title>Dietetic Practice in the United Arab Emirates: Assessment, Intervention, Collaboration, and Digital Tool Utilization</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+ABSTRACT
+
+Background
+Given the rising global prevalence of diet‐related noncommunicable diseases, aligning dietetic practice with standards of practice is essential for the effective prevention and management of these conditions. This study aimed to examine characteristics of dietetic practice in the United Arab Emirates, such as assessment, intervention, collaboration and digital tool utilization, in light of standards of practice.
+
+
+Methods
+This study used a cross‐sectional design. A national sample of practicing dietitians (n = 220) filled a web‐based questionnaire that assessed various characteristics of their practice, including nutritional assessment methods, dietary interventions for cardiometabolic conditions, interprofessional collaboration, and use of digital tools in practice. Descriptive statistics were used to summarize the data.
+
+
+Results
+Most dietitians used anthropometric measurements (91.3%) for nutritional assessment, with less frequent use of biochemical data (77.6%), technology‐assisted body composition analysis (73.8%), and nutrition—focused physical exams (46.4%). While a large proportion recommended the DASH (90.9%) and to a lesser extent the Mediterranean diet (64.6%) for cardiometabolic conditions, many dietitians also recommended intermittent fasting (62.3%) and detox diets (24.1%), despite limited supporting evidence. Dietitians collaborated primarily with physicians (81.8%) and nurses (69.5%), but less often with other healthcare professionals (&lt; 26%). Social media use in practice was common among dietitians (66%), and some utilized diet‐related mobile apps (55.5%), yet scientific validity in selecting these apps was often not prioritized (68%).
+
+
+Conclusion
+This study identified strengths and gaps in dietetic practice in the UAE. Despite the common use of standard assessment tools and evidence‐based interventions, limitations such as lack of comprehensive assessment, use of less‐supported diets, limited collaboration, and inadequate evaluation of digital tools highlight the need for clearer guidelines, enhanced professional training, and stronger alignment with professional standards.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;h2&gt;Background&lt;/h2&gt;
+&lt;p&gt;Given the rising global prevalence of diet-related noncommunicable diseases, aligning dietetic practice with standards of practice is essential for the effective prevention and management of these conditions. This study aimed to examine characteristics of dietetic practice in the United Arab Emirates, such as assessment, intervention, collaboration and digital tool utilization, in light of standards of practice.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;This study used a cross-sectional design. A national sample of practicing dietitians (&lt;i&gt;n&lt;/i&gt; = 220) filled a web-based questionnaire that assessed various characteristics of their practice, including nutritional assessment methods, dietary interventions for cardiometabolic conditions, interprofessional collaboration, and use of digital tools in practice. Descriptive statistics were used to summarize the data.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Most dietitians used anthropometric measurements (91.3%) for nutritional assessment, with less frequent use of biochemical data (77.6%), technology-assisted body composition analysis (73.8%), and nutrition—focused physical exams (46.4%). While a large proportion recommended the DASH (90.9%) and to a lesser extent the Mediterranean diet (64.6%) for cardiometabolic conditions, many dietitians also recommended intermittent fasting (62.3%) and detox diets (24.1%), despite limited supporting evidence. Dietitians collaborated primarily with physicians (81.8%) and nurses (69.5%), but less often with other healthcare professionals (&amp;lt; 26%). Social media use in practice was common among dietitians (66%), and some utilized diet-related mobile apps (55.5%), yet scientific validity in selecting these apps was often not prioritized (68%).&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;This study identified strengths and gaps in dietetic practice in the UAE. Despite the common use of standard assessment tools and evidence-based interventions, limitations such as lack of comprehensive assessment, use of less-supported diets, limited collaboration, and inadequate evaluation of digital tools highlight the need for clearer guidelines, enhanced professional training, and stronger alignment with professional standards.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Salma Abu‐Qiyas, 
+Hadia Radwan, 
+Leila Cheikh Ismail, 
+Mohamad Alameddine, 
+Mariam Muayyad, 
+Farah Naja
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Dietetic Practice in the United Arab Emirates: Assessment, Intervention, Collaboration, and Digital Tool Utilization</dc:title>
+         <dc:identifier>10.1111/jhn.70094</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70094</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70094?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70090?af=R</link>
+         <pubDate>Sun, 06 Jul 2025 23:22:14 -0700</pubDate>
+         <dc:date>2025-07-06T11:22:14-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70090</guid>
+         <title>Caffeine Intake and Cognitive Function Among US Adults Aged 60+: Insights From NHANES 2011−2014</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+ABSTRACT
+
+Background
+Caffeine, often consumed as a central nervous system stimulant, is proposed to have neuroprotective benefits, but there is limited evidence from population studies on its association with cognitive function.
+
+
+Materials and Methods
+The analysis in this cross‐sectional study involved 2461 US adults aged 60 and older, based on the National Health and Nutrition Examination Survey (NHANES) data from the 2011 to 2014 cycle. Caffeine intake was assessed via 24 h dietary recall, and cognitive function was evaluated using a composite score derived from Consortium to Establish a Registry for Alzheimer's Disease (CERAD), Animal Fluency Test (AFT) and Digit Symbol Substitution Test (DSST). Multivariable logistic regression models were used to assess the association between caffeine intake and cognitive function. Restricted cubic splines (RCS) were employed to explore dose−response relationships, and subgroup and sensitivity analyses were conducted.
+
+
+Results
+Higher caffeine intake was significantly associated with lower odds of poor cognitive function. In fully adjusted models, each 80 mg/day increase in caffeine intake was associated with a 12% reduced risk (OR = 0.88, 95% CI: 0.78−0.99, p = 0.035). Individuals in the highest quartile for caffeine intake had a 42.5% decreased risk of poor cognitive function compared to those in the lowest quartile (OR = 0.58, 95% CI: 0.40−0.83, p = 0.006). RCS analysis revealed a predominantly linear inverse association between caffeine intake and poor cognitive function (p overall = 0.002). These findings were shown to be robust through subgroup and sensitivity analyses.
+
+
+Conclusions
+Higher levels of caffeine intake appear to be connected with superior cognitive function among older adults. Longitudinal studies are required to determine causality.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;h2&gt;Background&lt;/h2&gt;
+&lt;p&gt;Caffeine, often consumed as a central nervous system stimulant, is proposed to have neuroprotective benefits, but there is limited evidence from population studies on its association with cognitive function.&lt;/p&gt;
+&lt;h2&gt;Materials and Methods&lt;/h2&gt;
+&lt;p&gt;The analysis in this cross-sectional study involved 2461 US adults aged 60 and older, based on the National Health and Nutrition Examination Survey (NHANES) data from the 2011 to 2014 cycle. Caffeine intake was assessed via 24 h dietary recall, and cognitive function was evaluated using a composite score derived from Consortium to Establish a Registry for Alzheimer's Disease (CERAD), Animal Fluency Test (AFT) and Digit Symbol Substitution Test (DSST). Multivariable logistic regression models were used to assess the association between caffeine intake and cognitive function. Restricted cubic splines (RCS) were employed to explore dose−response relationships, and subgroup and sensitivity analyses were conducted.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Higher caffeine intake was significantly associated with lower odds of poor cognitive function. In fully adjusted models, each 80 mg/day increase in caffeine intake was associated with a 12% reduced risk (OR = 0.88, 95% CI: 0.78−0.99, &lt;i&gt;p&lt;/i&gt; = 0.035). Individuals in the highest quartile for caffeine intake had a 42.5% decreased risk of poor cognitive function compared to those in the lowest quartile (OR = 0.58, 95% CI: 0.40−0.83, &lt;i&gt;p&lt;/i&gt; = 0.006). RCS analysis revealed a predominantly linear inverse association between caffeine intake and poor cognitive function (&lt;i&gt;p&lt;/i&gt; overall = 0.002). These findings were shown to be robust through subgroup and sensitivity analyses.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Higher levels of caffeine intake appear to be connected with superior cognitive function among older adults. Longitudinal studies are required to determine causality.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Xiaoli Wang, 
+Meng Li, 
+Minheng Zhang
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Caffeine Intake and Cognitive Function Among US Adults Aged 60+: Insights From NHANES 2011−2014</dc:title>
+         <dc:identifier>10.1111/jhn.70090</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70090</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70090?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70082?af=R</link>
+         <pubDate>Fri, 04 Jul 2025 03:45:43 -0700</pubDate>
+         <dc:date>2025-07-04T03:45:43-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70082</guid>
+         <title>Prevalence of Chronic and Acute Malnutrition and Association With Overall Three‐Year Survival in Newly Diagnosed Children With Cancer in South Africa</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+ABSTRACT
+
+Introduction
+This study investigated the prevalence of malnutrition at childhood cancer diagnosis in South Africa and the association with 1‐year post‐diagnosis overall survival (OS).
+
+
+Method
+Nutritional status was prospectively assessed for newly diagnosed children with cancer. Chronic undernutrition was defined as two standard deviations (SDs) or more below zero for height/length‐for‐age (HAZ), and acute as underweight (weight‐for‐age [WAZ], and wasted as body mass index for age [BAZ] and mid‐upper arm circumference for age [MUAC/A]). The association between the nutritional status at diagnosis and age, sex, disease group and 1‐year post‐diagnosis OS was analysed with Cox regression and hazard ratios (HRs).
+
+
+Results
+Less than 15% were chronically malnourished (stunted: 14.3%) and up to 24.3% acutely undernourished (wasted: 24.3% MUAC‐Z and BAZ 8.1%), 11.6% underweight, of 320 patients at cancer diagnosis). More females than males were underweight (12.2% vs. 4.5%; p = 0.027). Children of 5 years of age and older had a higher prevalence of wasting (18.7%) than children under 5 years of age (3.9%) (p &lt; 0.001) at diagnosis, with significant improvement 6 months after diagnosis. Stunting was significantly associated with poorer OS at 3 years after a cancer diagnosis (HR 1.8; 95% CI 1.1, 2.8; p = 0.011).
+
+
+Conclusion
+MUAC/A identified more children with undernutrition than other nutritional parameters. Stunting was significantly associated with poorer OS 3 years and EFS 2 years after a cancer diagnosis. Optimal nutritional support should be provided for South African children, especially those with acute and chronic malnutrition, to improve OS.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This study investigated the prevalence of malnutrition at childhood cancer diagnosis in South Africa and the association with 1-year post-diagnosis overall survival (OS).&lt;/p&gt;
+&lt;h2&gt;Method&lt;/h2&gt;
+&lt;p&gt;Nutritional status was prospectively assessed for newly diagnosed children with cancer. Chronic undernutrition was defined as two standard deviations (SDs) or more below zero for height/length-for-age (HAZ), and acute as underweight (weight-for-age [WAZ], and wasted as body mass index for age [BAZ] and mid-upper arm circumference for age [MUAC/A]). The association between the nutritional status at diagnosis and age, sex, disease group and 1-year post-diagnosis OS was analysed with Cox regression and hazard ratios (HRs).&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Less than 15% were chronically malnourished (stunted: 14.3%) and up to 24.3% acutely undernourished (wasted: 24.3% MUAC-Z and BAZ 8.1%), 11.6% underweight, of 320 patients at cancer diagnosis). More females than males were underweight (12.2% vs. 4.5%; &lt;i&gt;p&lt;/i&gt; = 0.027). Children of 5 years of age and older had a higher prevalence of wasting (18.7%) than children under 5 years of age (3.9%) (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001) at diagnosis, with significant improvement 6 months after diagnosis. Stunting was significantly associated with poorer OS at 3 years after a cancer diagnosis (HR 1.8; 95% CI 1.1, 2.8; &lt;i&gt;p&lt;/i&gt; = 0.011).&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;MUAC/A identified more children with undernutrition than other nutritional parameters. Stunting was significantly associated with poorer OS 3 years and EFS 2 years after a cancer diagnosis. Optimal nutritional support should be provided for South African children, especially those with acute and chronic malnutrition, to improve OS.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Judy Schoeman, 
+Ilde‐Marié Kellerman, 
+Sandile Ndlovu, 
+Elena J. Ladas, 
+Paul C. Rogers, 
+Gita Naidu, 
+Biance Rowe, 
+Jan Du Plessis, 
+Mariechen Herholdt, 
+Karla Thomas, 
+Barry Vanemmenes, 
+Rema Mathews, 
+Ronelle Uys, 
+Ané Büchner, 
+Fareed E. Omar, 
+David T. Reynders, 
+Mariana Kruger
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Prevalence of Chronic and Acute Malnutrition and Association With Overall Three‐Year Survival in Newly Diagnosed Children With Cancer in South Africa</dc:title>
+         <dc:identifier>10.1111/jhn.70082</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70082</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70082?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70087?af=R</link>
+         <pubDate>Thu, 03 Jul 2025 21:34:52 -0700</pubDate>
+         <dc:date>2025-07-03T09:34:52-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70087</guid>
+         <title>Dietetic‐Led Cognitive Behavioral Therapy for ARFID: A Novel Approach to Avoidant/Restrictive Food Intake Disorder With Case Studies</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+ABSTRACT
+
+Background
+Cognitive‐behavioral therapy for avoidant/restrictive food intake disorder (CBT‐AR) is an emerging treatment for adults with avoidant/restrictive food intake disorder (ARFID). This article explores how CBT‐AR can be integrated with and enhanced by the dietetics skillset and presents two case studies in which a dietitian primarily provided treatment within a multidisciplinary team.
+
+
+Methods
+The dietetic‐led CBT‐AR treatment journeys are described for two patients. We utilised dietetic and psychological assessments to measure change, including: nutrient pathology; weight; Pica, ARFID and Rumination Disorder Interview scores; Australian Core Food Score; and Structured Assessment of Gastrointestinal Symptoms. We describe the stages of CBT‐AR with examples of how a dietitian's skillset might be utilised within this treatment approach.
+
+
+Results
+Both patients demonstrated significant improvements in ARFID psychopathology and dietetic measures after completing dietitian‐led CBT‐AR. These findings provide preliminary evidence that dietitians with specialised expertise in eating disorders could effectively deliver CBT‐AR as part of a multidisciplinary team.
+
+
+Conclusions
+These case studies highlight the potential for dietitians to act as primary clinicians in delivering CBT‐AR and provide preliminary evidence on how their skillset could lead to clinically meaningful improvements for adults living with ARFID. Future research trials are required to confirm that dietitian‐led CBT‐AR could be a viable treatment option for ARFID.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;h2&gt;Background&lt;/h2&gt;
+&lt;p&gt;Cognitive-behavioral therapy for avoidant/restrictive food intake disorder (CBT-AR) is an emerging treatment for adults with avoidant/restrictive food intake disorder (ARFID). This article explores how CBT-AR can be integrated with and enhanced by the dietetics skillset and presents two case studies in which a dietitian primarily provided treatment within a multidisciplinary team.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;The dietetic-led CBT-AR treatment journeys are described for two patients. We utilised dietetic and psychological assessments to measure change, including: nutrient pathology; weight; Pica, ARFID and Rumination Disorder Interview scores; Australian Core Food Score; and Structured Assessment of Gastrointestinal Symptoms. We describe the stages of CBT-AR with examples of how a dietitian's skillset might be utilised within this treatment approach.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Both patients demonstrated significant improvements in ARFID psychopathology and dietetic measures after completing dietitian-led CBT-AR. These findings provide preliminary evidence that dietitians with specialised expertise in eating disorders could effectively deliver CBT-AR as part of a multidisciplinary team.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;These case studies highlight the potential for dietitians to act as primary clinicians in delivering CBT-AR and provide preliminary evidence on how their skillset could lead to clinically meaningful improvements for adults living with ARFID. Future research trials are required to confirm that dietitian-led CBT-AR could be a viable treatment option for ARFID.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Copeland G. Winten, 
+Lynda J. Ross, 
+Esben Strodl, 
+Gabriella Heruc, 
+Jennifer J. Thomas
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Dietetic‐Led Cognitive Behavioral Therapy for ARFID: A Novel Approach to Avoidant/Restrictive Food Intake Disorder With Case Studies</dc:title>
+         <dc:identifier>10.1111/jhn.70087</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70087</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70087?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70088?af=R</link>
+         <pubDate>Thu, 03 Jul 2025 21:34:31 -0700</pubDate>
+         <dc:date>2025-07-03T09:34:31-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70088</guid>
+         <title>Evaluating the Quality and Reliability of YouTube Videos Providing Nutritional Recommendations for Irritable Bowel Syndrome</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+ABSTRACT
+
+Purpose
+This study aimed to evaluate YouTube videos providing nutritional recommendations for irritable bowel syndrome (IBS) in terms of validity, quality, accuracy and reliability.
+
+
+Methods
+In December 2023, we searched for relevant videos on YouTube using three search terms related to IBS in Turkish. Two independent researchers analysed the content of 64 videos that met the inclusion criteria. Reliability and quality were determined using the m‐DISCERN criteria, the Global Quality Scale (GQS), the Journal of American Medical Association (JAMA) system, the Video Information and Quality Index (VIQI), and the IBS Nutition Scoring System (INSS).
+
+
+Results
+The majority of these videos (%67.2) are produced by gastroenterologists, 15.6% by dietitians, and 17.2% by other individuals. The number of views and likes on videos by other individuals was higher compared to the videos of gastroenterologists (p &lt; 0.05). In the comparison across the three groups, no statistically significant differences were found in the mean INSS (p = 0.287) and JAMA scores (p = 0.783). However, significant differences were observed in the mean interaction index (p = 0.029), Video Power Index (VPI) (p = 0.006), m‐DISCERN (p &lt; 0.001), GQS (p = 0.002), and VIQI (p &lt; 0.001) scores. GQS scores demonstrated strong positive correlations with both INSS and VIQI scores (r = 0.6528, r = 0.6174, respectively), while showing a moderate correlation with m‐DISCERN scores (r = 0.531, p &lt; 0.001).
+
+
+Conclusion
+Our study shows that users prioritise popularity over reliability when seeking nutritional information. Health professionals should create engaging content to ensure accurate information stands out online.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;h2&gt;Purpose&lt;/h2&gt;
+&lt;p&gt;This study aimed to evaluate YouTube videos providing nutritional recommendations for irritable bowel syndrome (IBS) in terms of validity, quality, accuracy and reliability.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;In December 2023, we searched for relevant videos on YouTube using three search terms related to IBS in Turkish. Two independent researchers analysed the content of 64 videos that met the inclusion criteria. Reliability and quality were determined using the m-DISCERN criteria, the Global Quality Scale (GQS), the &lt;i&gt;Journal of American Medical Association&lt;/i&gt; (JAMA) system, the Video Information and Quality Index (VIQI), and the IBS Nutition Scoring System (INSS).&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;The majority of these videos (%67.2) are produced by gastroenterologists, 15.6% by dietitians, and 17.2% by other individuals. The number of views and likes on videos by other individuals was higher compared to the videos of gastroenterologists (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.05). In the comparison across the three groups, no statistically significant differences were found in the mean INSS (&lt;i&gt;p&lt;/i&gt; = 0.287) and JAMA scores (&lt;i&gt;p&lt;/i&gt; = 0.783). However, significant differences were observed in the mean interaction index (&lt;i&gt;p&lt;/i&gt; = 0.029), Video Power Index (VPI) (&lt;i&gt;p&lt;/i&gt; = 0.006), m-DISCERN (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001), GQS (&lt;i&gt;p&lt;/i&gt; = 0.002), and VIQI (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001) scores. GQS scores demonstrated strong positive correlations with both INSS and VIQI scores (&lt;i&gt;r&lt;/i&gt; = 0.6528, &lt;i&gt;r&lt;/i&gt; = 0.6174, respectively), while showing a moderate correlation with m-DISCERN scores (&lt;i&gt;r&lt;/i&gt; = 0.531, &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001).&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Our study shows that users prioritise popularity over reliability when seeking nutritional information. Health professionals should create engaging content to ensure accurate information stands out online.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Eda Başmısırlı, 
+Merve Kip, 
+Hande Altun, 
+Neriman İnanç
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Evaluating the Quality and Reliability of YouTube Videos Providing Nutritional Recommendations for Irritable Bowel Syndrome</dc:title>
+         <dc:identifier>10.1111/jhn.70088</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70088</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70088?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70086?af=R</link>
+         <pubDate>Wed, 02 Jul 2025 21:23:45 -0700</pubDate>
+         <dc:date>2025-07-02T09:23:45-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70086</guid>
+         <title>Vitamin A, C and/or E Intake During Pregnancy and Offspring Respiratory Health: A Systematic Review and Meta‐Analysis</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+ABSTRACT
+
+Introduction
+Poor respiratory health in childhood is common, and asthma is the most common chronic disease among children, for which there is no known cure. Maternal intake of vitamins (A, C, E) may be a modifiable nutritional exposure to reduce adverse respiratory health in offspring.
+
+
+Objective
+We aimed to systematically review the evidence for the association between maternal vitamin (A, C, E) intake during pregnancy (via questionnaire or blood assay) and respiratory outcomes in the offspring.
+
+
+Methods
+Studies identified through electronic databases were eligible if they assessed maternal levels and/or intake of vitamins A, C and/or E via dietary intake or supplements in pregnancy and respiratory outcomes in the first 5 years of life. Meta‐analyses were conducted where possible. Outcomes included wheeze, cough, asthma, infant respiratory distress syndrome (RDS), respiratory tract infection (RTI) and lung function measurement.
+
+
+Results
+Of 1170 articles screened, 12 observational studies and six RCTs met the inclusion criteria (total sample size n = 58,769). Meta‐analysis could not be performed for vitamin A; however, there was no evidence to suggest that maternal vitamin A intake improves early life respiratory outcomes in offspring. Two RCTs found that vitamin C supplementation (500 mg/day vs. placebo) reduced the incidence of wheeze at 12 months (n = 206 children) and 5 years (n = 213 children) in pregnancies exposed to smoking. In meta‐analyses, maternal intake in the highest vitamin E quartile versus lowest reduced the odds of wheeze at 2 years by 36% (aOR: 0.64, 95% CI: 0.47–0.87, n = 2 observational studies, very low certainty); this was not true for vitamin C intake (aOR: 0.85, 95% CI: 0.63–1.16, n = 2 observational studies, very low certainty). Vitamin supplementation (C + E) was not associated with infant RDS (OR: 1.15, 95% CI: 0.80–1.64, n = 2 studies, moderate certainty) relative to placebo.
+
+
+Conclusion
+There may be some benefit to vitamin C supplementation during pregnancy in the context of maternal smoking or higher maternal vitamin E intake during pregnancy, for reducing the risk of childhood wheeze in early life. This emerging evidence warrants further studies to enable translation into dietary guidelines.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Poor respiratory health in childhood is common, and asthma is the most common chronic disease among children, for which there is no known cure. Maternal intake of vitamins (A, C, E) may be a modifiable nutritional exposure to reduce adverse respiratory health in offspring.&lt;/p&gt;
+&lt;h2&gt;Objective&lt;/h2&gt;
+&lt;p&gt;We aimed to systematically review the evidence for the association between maternal vitamin (A, C, E) intake during pregnancy (via questionnaire or blood assay) and respiratory outcomes in the offspring.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Studies identified through electronic databases were eligible if they assessed maternal levels and/or intake of vitamins A, C and/or E via dietary intake or supplements in pregnancy and respiratory outcomes in the first 5 years of life. Meta-analyses were conducted where possible. Outcomes included wheeze, cough, asthma, infant respiratory distress syndrome (RDS), respiratory tract infection (RTI) and lung function measurement.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Of 1170 articles screened, 12 observational studies and six RCTs met the inclusion criteria (total sample size &lt;i&gt;n&lt;/i&gt; = 58,769). Meta-analysis could not be performed for vitamin A; however, there was no evidence to suggest that maternal vitamin A intake improves early life respiratory outcomes in offspring. Two RCTs found that vitamin C supplementation (500 mg/day vs. placebo) reduced the incidence of wheeze at 12 months (&lt;i&gt;n&lt;/i&gt; = 206 children) and 5 years (&lt;i&gt;n&lt;/i&gt; = 213 children) in pregnancies exposed to smoking. In meta-analyses, maternal intake in the highest vitamin E quartile versus lowest reduced the odds of wheeze at 2 years by 36% (aOR: 0.64, 95% CI: 0.47–0.87, &lt;i&gt;n&lt;/i&gt; = 2 observational studies, very low certainty); this was not true for vitamin C intake (aOR: 0.85, 95% CI: 0.63–1.16, &lt;i&gt;n&lt;/i&gt; = 2 observational studies, very low certainty). Vitamin supplementation (C + E) was not associated with infant RDS (OR: 1.15, 95% CI: 0.80–1.64, &lt;i&gt;n&lt;/i&gt; = 2 studies, moderate certainty) relative to placebo.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;There may be some benefit to vitamin C supplementation during pregnancy in the context of maternal smoking or higher maternal vitamin E intake during pregnancy, for reducing the risk of childhood wheeze in early life. This emerging evidence warrants further studies to enable translation into dietary guidelines.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Vanessa E. Murphy, 
+Megan E. Jensen, 
+Soriah Harvey, 
+Tesfalidet Beyene, 
+Jake Gregson, 
+Farihah Islam, 
+William Huang, 
+Katie Aistrope, 
+Adam Collison
+</dc:creator>
+         <category>META‐ANALYSIS</category>
+         <dc:title>Vitamin A, C and/or E Intake During Pregnancy and Offspring Respiratory Health: A Systematic Review and Meta‐Analysis</dc:title>
+         <dc:identifier>10.1111/jhn.70086</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70086</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70086?af=R</prism:url>
+         <prism:section>META‐ANALYSIS</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70081?af=R</link>
+         <pubDate>Mon, 30 Jun 2025 00:00:00 -0700</pubDate>
+         <dc:date>2025-06-30T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70081</guid>
+         <title>Barriers and Practices in Food Reintroduction Following Exclusive Enteral Nutrition in Chinese Teenagers With Crohn's Disease: A Multi‐Perspective Qualitative Study</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+ABSTRACT
+
+Background
+Food reintroduction is a critical step for teenagers with Crohn's disease (CD) transitioning from exclusive enteral nutrition (EEN) to a normal diet. However, no standardized protocol currently guides this process. This study aimed to explore the barriers and practices of food reintroduction from the perspectives of teenagers, their caregivers and healthcare professionals in the Chinese context.
+
+
+Methods
+A descriptive qualitative design was adopted. Purposive sampling was used to recruit participants, including teenagers with CD, their caregivers and healthcare professionals. Semi‐structured interviews were conducted to collect data on food reintroduction barriers and practices. Conventional content analysis was used to analyse the interview transcripts.
+
+
+Results
+A total of 25 participants completed 24 interviews. Four themes emerged regarding barriers: absence of specific dietary guidance, poor food acceptance by teenagers, unreasonable dietary control by caregivers and school environment limitations. Three themes were identified regarding practices: principles of food reintroduction, time of food reintroduction and application strategies of partial enteral nutrition.
+
+
+Conclusions
+This study underscores the need for a structured protocol for food reintroduction in Chinese teenagers with CD from the perspectives of patients, caregivers and the IBD healthcare professionals, exploring the variability in the barriers and practices related to individual preferences, caregiver approaches, healthcare professional guidance and school environments. The findings may provide valuable insights for the development of future food reintroduction protocols.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;h2&gt;Background&lt;/h2&gt;
+&lt;p&gt;Food reintroduction is a critical step for teenagers with Crohn's disease (CD) transitioning from exclusive enteral nutrition (EEN) to a normal diet. However, no standardized protocol currently guides this process. This study aimed to explore the barriers and practices of food reintroduction from the perspectives of teenagers, their caregivers and healthcare professionals in the Chinese context.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;A descriptive qualitative design was adopted. Purposive sampling was used to recruit participants, including teenagers with CD, their caregivers and healthcare professionals. Semi-structured interviews were conducted to collect data on food reintroduction barriers and practices. Conventional content analysis was used to analyse the interview transcripts.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;A total of 25 participants completed 24 interviews. Four themes emerged regarding barriers: absence of specific dietary guidance, poor food acceptance by teenagers, unreasonable dietary control by caregivers and school environment limitations. Three themes were identified regarding practices: principles of food reintroduction, time of food reintroduction and application strategies of partial enteral nutrition.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;This study underscores the need for a structured protocol for food reintroduction in Chinese teenagers with CD from the perspectives of patients, caregivers and the IBD healthcare professionals, exploring the variability in the barriers and practices related to individual preferences, caregiver approaches, healthcare professional guidance and school environments. The findings may provide valuable insights for the development of future food reintroduction protocols.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Mi Zhou, 
+Yunxian Zhou, 
+Qingqing Li, 
+Meihao Wei
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Barriers and Practices in Food Reintroduction Following Exclusive Enteral Nutrition in Chinese Teenagers With Crohn's Disease: A Multi‐Perspective Qualitative Study</dc:title>
+         <dc:identifier>10.1111/jhn.70081</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70081</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70081?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70085?af=R</link>
+         <pubDate>Sun, 29 Jun 2025 23:29:49 -0700</pubDate>
+         <dc:date>2025-06-29T11:29:49-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70085</guid>
+         <title>The Client's Goals Are My Primary Responsibility: A Qualitative Study Examining Dietitians' Perceptions of the Barriers and Facilitators to Incorporating Environmentally Sustainable Food Systems in Clinical and Food Services Practice Within Healthcare Settings</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description>
+ABSTRACT
+
+Introduction
+Current industrial food systems are not sustainable; they threaten future generations and cause rapid environmental degradation. Shifts to more sustainable food systems (SFS) and associated dietary practices can help reduce the carbon footprint and promote environmental sustainability. Dietitians working in healthcare settings can promote SFS initiatives. This study explored dietitians' SFS practices and their perceptions of the barriers and facilitators within healthcare settings.
+
+
+Methods
+This study analyzed secondary data from a survey of dietitians in Canada, the United Kingdom (UK), Australia, and the United States (US). A convenience sample of dietitians was recruited through national dietetic associations, professional networks, social media, listservs and snowball sampling. Responses were isolated for dietitians working in clinical and food services practice areas and analyzed thematically. The socio‐ecological framework was used to understand areas where dietitians have influence within healthcare settings.
+
+
+Results
+Three main themes were identified where clinical and food services dietitians (n = 111) are incorporating SFS into practice in healthcare settings: education, communication, and workplace‐related activities. Key barriers included operational and organizational factors (competing priorities), external factors (rising food costs), practice area constraints (limited role clarity), and concern for the client‐practitioner relationship (CPR). The CPR tension theme emerged as a challenge for clinical dietitians in incorporating SFS into patient counselling. Facilitators included organizational factors (leadership), research and educational resources, personal factors (interest), and practical tools and resources (national food guides).
+
+
+Conclusion
+This study underscores the important work that dietitians are already doing across countries with different yet comparable dietetic professions and health systems. Recognizing that the barriers and facilitators identified in this study will vary between nations, institutions and practitioners, four areas of consideration were suggested, including expanding the client‐practitioner relationship to include planetary health; learning from what dietetics and nutrition professionals are doing in other countries; advocating for policy and organizational changes within healthcare, and communicating in the ‘cost language’ of decision‐makers. This study identified that there may be gaps for some dietitians in understanding client‐centredness in the context of planetary health. This study highlights the need for further research to support more formalized approaches to the incorporation of SFS and planetary health considerations across all dietetic practice areas.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Current industrial food systems are not sustainable; they threaten future generations and cause rapid environmental degradation. Shifts to more sustainable food systems (SFS) and associated dietary practices can help reduce the carbon footprint and promote environmental sustainability. Dietitians working in healthcare settings can promote SFS initiatives. This study explored dietitians' SFS practices and their perceptions of the barriers and facilitators within healthcare settings.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;This study analyzed secondary data from a survey of dietitians in Canada, the United Kingdom (UK), Australia, and the United States (US). A convenience sample of dietitians was recruited through national dietetic associations, professional networks, social media, listservs and snowball sampling. Responses were isolated for dietitians working in clinical and food services practice areas and analyzed thematically. The socio-ecological framework was used to understand areas where dietitians have influence within healthcare settings.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Three main themes were identified where clinical and food services dietitians (&lt;i&gt;n&lt;/i&gt; = 111) are incorporating SFS into practice in healthcare settings: education, communication, and workplace-related activities. Key barriers included operational and organizational factors (competing priorities), external factors (rising food costs), practice area constraints (limited role clarity), and concern for the client-practitioner relationship (CPR). The CPR tension theme emerged as a challenge for clinical dietitians in incorporating SFS into patient counselling. Facilitators included organizational factors (leadership), research and educational resources, personal factors (interest), and practical tools and resources (national food guides).&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;This study underscores the important work that dietitians are already doing across countries with different yet comparable dietetic professions and health systems. Recognizing that the barriers and facilitators identified in this study will vary between nations, institutions and practitioners, four areas of consideration were suggested, including expanding the client-practitioner relationship to include planetary health; learning from what dietetics and nutrition professionals are doing in other countries; advocating for policy and organizational changes within healthcare, and communicating in the ‘cost language’ of decision-makers. This study identified that there may be gaps for some dietitians in understanding client-centredness in the context of planetary health. This study highlights the need for further research to support more formalized approaches to the incorporation of SFS and planetary health considerations across all dietetic practice areas.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Katy Saucis, 
+Jessica Wegener, 
+Liesel Carlsson, 
+Tracy Everitt
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>The Client's Goals Are My Primary Responsibility: A Qualitative Study Examining Dietitians' Perceptions of the Barriers and Facilitators to Incorporating Environmentally Sustainable Food Systems in Clinical and Food Services Practice Within Healthcare Settings</dc:title>
+         <dc:identifier>10.1111/jhn.70085</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70085</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70085?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70089?af=R</link>
+         <pubDate>Sun, 29 Jun 2025 23:19:11 -0700</pubDate>
+         <dc:date>2025-06-29T11:19:11-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/1365277x?af=R">Wiley: Journal of Human Nutrition and Dietetics: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Aug 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jhn.70089</guid>
+         <title>Issue Information</title>
+         <description>Journal of Human Nutrition and Dietetics, Volume 38, Issue 4, August 2025. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>ISSUE INFORMATION</category>
+         <dc:title>Issue Information</dc:title>
+         <dc:identifier>10.1111/jhn.70089</dc:identifier>
+         <prism:publicationName>Journal of Human Nutrition and Dietetics</prism:publicationName>
+         <prism:doi>10.1111/jhn.70089</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jhn.70089?af=R</prism:url>
+         <prism:section>ISSUE INFORMATION</prism:section>
+         <prism:volume>38</prism:volume>
+         <prism:number>4</prism:number>
+      </item>
+   </channel>
+</rss>

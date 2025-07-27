@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "failure_threshold": 3,
   "check_interval_hours": 24,
   "timeout_seconds": 10,

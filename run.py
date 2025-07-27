@@ -20,8 +20,8 @@ def run_command(command, description):
         return True
     except subprocess.CalledProcessError as e:
         print(f"错误: {e}")
-        if e.stderr:
-            print(f"错误信息: {e.stderr}")
+        print(f"标准输出: {e.stdout}")
+        print(f"错误输出: {e.stderr}")
         return False
 
 def main():

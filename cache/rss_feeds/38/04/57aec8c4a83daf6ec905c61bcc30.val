@@ -1,0 +1,1944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+     version="2.0">
+   <channel>
+      <title>Wiley: Nutrition &amp; Dietetics: Table of Contents</title>
+      <link>https://onlinelibrary.wiley.com/journal/17470080?af=R</link>
+      <description>Table of Contents for Nutrition &amp; Dietetics. List of articles from both the latest and EarlyView issues.</description>
+      <language>en-US</language>
+      <copyright>© Dietitians Association of Australia</copyright>
+      <managingEditor>wileyonlinelibrary@wiley.com (Wiley Online Library)</managingEditor>
+      <pubDate>Sat, 26 Jul 2025 07:37:18 +0000</pubDate>
+      <lastBuildDate>Sat, 26 Jul 2025 07:37:18 +0000</lastBuildDate>
+      <generator>Atypon® Literatum™</generator>
+      <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+      <ttl>10080</ttl>
+      <dc:title>Wiley: Nutrition &amp; Dietetics: Table of Contents</dc:title>
+      <dc:publisher>Wiley</dc:publisher>
+      <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+      <atom:link href="https://onlinelibrary.wiley.com/journal/17470080?af=R"
+                 rel="self"
+                 type="application/atom+xml"/>
+      <image>
+         <title>Wiley: Nutrition &amp; Dietetics: Table of Contents</title>
+         <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/17470080.jpg</url>
+         <link>https://onlinelibrary.wiley.com/journal/17470080?af=R</link>
+      </image>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70031?af=R</link>
+         <pubDate>Thu, 24 Jul 2025 03:35:16 -0700</pubDate>
+         <dc:date>2025-07-24T03:35:16-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70031</guid>
+         <title>Exploring factors influencing complementary feeding practices in Asia from parents' and caregivers' perspectives: A qualitative systematic review</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aims
+Child malnutrition remains a significant issue worldwide, particularly in developing regions like Asia. Age 6–23 months is critical for preventing malnutrition, yet numerous children within this range do not receive nutritionally sufficient complementary foods. This study aimed to explore factors influencing complementary feeding practices among Asian parents and caregivers.
+
+
+Methods
+Searches for this qualitative systematic review were undertaken in May–June 2023, in five databases (Medline, Cochrane, EMBASE, PubMed, and Global Health). The review included studies from Asian countries that utilised qualitative or mixed methods, published in English. Studies involving infants with pre‐existing conditions or mothers with mental health conditions were excluded. The 2018 Critical Appraisal Skills Programme checklist was used to evaluate the included studies, and data were synthesised to extract key themes related to complementary feeding practices. The appraisal certainty of review findings were assessed using the GRADE‐certainty of qualitative evidence approach.
+
+
+Results
+This review identified 14 findings from 16 studies with 955 participants. Influencing factors were categorised into four groups: individual factors (child's preferences, knowledge gaps, sources of information, the mother's self‐efficacy, time constraints, insufficient breast milk), household factors (family dynamics, secondary caregivers support, economic status), socio‐environmental factors (sociocultural norms, media influences, social support, access to food), and health services.
+
+
+Conclusions
+This study emphasises the need to consider parents' and caregivers' experiences when developing interventions. The presence of diverse factors across settings suggests customised nutrition education that considers local contexts and involves all relevant stakeholders.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;Child malnutrition remains a significant issue worldwide, particularly in developing regions like Asia. Age 6–23 months is critical for preventing malnutrition, yet numerous children within this range do not receive nutritionally sufficient complementary foods. This study aimed to explore factors influencing complementary feeding practices among Asian parents and caregivers.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Searches for this qualitative systematic review were undertaken in May–June 2023, in five databases (Medline, Cochrane, EMBASE, PubMed, and Global Health). The review included studies from Asian countries that utilised qualitative or mixed methods, published in English. Studies involving infants with pre-existing conditions or mothers with mental health conditions were excluded. The 2018 Critical Appraisal Skills Programme checklist was used to evaluate the included studies, and data were synthesised to extract key themes related to complementary feeding practices. The appraisal certainty of review findings were assessed using the GRADE-certainty of qualitative evidence approach.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;This review identified 14 findings from 16 studies with 955 participants. Influencing factors were categorised into four groups: individual factors (child's preferences, knowledge gaps, sources of information, the mother's self-efficacy, time constraints, insufficient breast milk), household factors (family dynamics, secondary caregivers support, economic status), socio-environmental factors (sociocultural norms, media influences, social support, access to food), and health services.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;This study emphasises the need to consider parents' and caregivers' experiences when developing interventions. The presence of diverse factors across settings suggests customised nutrition education that considers local contexts and involves all relevant stakeholders.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Intan Noor Hanifa, 
+Andrew Limavady, 
+Mary Fewtrell
+</dc:creator>
+         <category>REVIEW</category>
+         <dc:title>Exploring factors influencing complementary feeding practices in Asia from parents' and caregivers' perspectives: A qualitative systematic review</dc:title>
+         <dc:identifier>10.1111/1747-0080.70031</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70031</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70031?af=R</prism:url>
+         <prism:section>REVIEW</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70030?af=R</link>
+         <pubDate>Thu, 24 Jul 2025 03:29:21 -0700</pubDate>
+         <dc:date>2025-07-24T03:29:21-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70030</guid>
+         <title>A scoping review of squeeze pouch use among infants and children: Frequency, types, sociodemographic characteristics and parental experiences</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aims
+Demand for infant and child foods in squeeze pouches is increasing, yet limited evidence exists to inform public health strategies on who uses them and why. The aim of this scoping review was to explore the frequency and types of squeeze pouches consumed by children, the sociodemographic characteristics of users and insights from parental experiences regarding their use.
+
+
+Methods
+A scoping review was conducted in accordance with the Joanna Briggs Institute guidelines for scoping reviews. Between January and April 2024, three databases were searched (MEDLINE, Scopus and CINAHL) in addition to grey literature. Two independent reviewers screened 125 articles, of which 16 underwent full‐text review. Results were summarised narratively.
+
+
+Results
+Eleven studies across five countries were included. Eight studies reported on the prevalence of squeeze pouch consumption, ranging from 23.5% to 82.8% for infants and children. Frequency of intake ranged from daily (n = 4; 8.7%–29.2%), weekly (n = 7; 20.9%–75.2%), to monthly consumption (n = 7 16.7%–70.4%), depending on the study. Predominantly fruit‐ and dairy‐based pouches were consumed. Frequent use was linked to higher deprivation, childcare use, larger families, early breastfeeding cessation and early solid food introduction. Studies on parental perceptions (n = 6) reported their perceived convenience, healthiness and low cost and concerns related to waste.
+
+
+Conclusions
+This review identified widespread use of squeeze pouches among infants and children, particularly fruit and dairy‐based pouches. More research is needed on their nutritional impact to guide public health strategies promoting healthy early feeding practices.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;Demand for infant and child foods in squeeze pouches is increasing, yet limited evidence exists to inform public health strategies on who uses them and why. The aim of this scoping review was to explore the frequency and types of squeeze pouches consumed by children, the sociodemographic characteristics of users and insights from parental experiences regarding their use.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;A scoping review was conducted in accordance with the Joanna Briggs Institute guidelines for scoping reviews. Between January and April 2024, three databases were searched (MEDLINE, Scopus and CINAHL) in addition to grey literature. Two independent reviewers screened 125 articles, of which 16 underwent full-text review. Results were summarised narratively.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Eleven studies across five countries were included. Eight studies reported on the prevalence of squeeze pouch consumption, ranging from 23.5% to 82.8% for infants and children. Frequency of intake ranged from daily (&lt;i&gt;n&lt;/i&gt; = 4; 8.7%–29.2%), weekly (&lt;i&gt;n&lt;/i&gt; = 7; 20.9%–75.2%), to monthly consumption (&lt;i&gt;n&lt;/i&gt; = 7 16.7%–70.4%), depending on the study. Predominantly fruit- and dairy-based pouches were consumed. Frequent use was linked to higher deprivation, childcare use, larger families, early breastfeeding cessation and early solid food introduction. Studies on parental perceptions (&lt;i&gt;n&lt;/i&gt; = 6) reported their perceived convenience, healthiness and low cost and concerns related to waste.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;This review identified widespread use of squeeze pouches among infants and children, particularly fruit and dairy-based pouches. More research is needed on their nutritional impact to guide public health strategies promoting healthy early feeding practices.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Bianca Smith, 
+Catharine A. K. Fleming, 
+Ami Seivwright, 
+Katherine Kent
+</dc:creator>
+         <category>REVIEW</category>
+         <dc:title>A scoping review of squeeze pouch use among infants and children: Frequency, types, sociodemographic characteristics and parental experiences</dc:title>
+         <dc:identifier>10.1111/1747-0080.70030</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70030</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70030?af=R</prism:url>
+         <prism:section>REVIEW</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70029?af=R</link>
+         <pubDate>Thu, 24 Jul 2025 03:04:41 -0700</pubDate>
+         <dc:date>2025-07-24T03:04:41-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70029</guid>
+         <title>Development of a database for non‐nutritive antioxidants in Australian‐grown horticultural commodities</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aim
+This cross‐sectional study aimed to measure total polyphenols, total flavonoids, total anthocyanins, lutein and lycopene in Australian‐grown horticultural commodities.
+
+
+Methods
+Primary samples (n = 822) of Australian‐grown fruit, vegetables and nuts were purchased during peak growing season in Sydney, Melbourne and Perth between June 2021 and May 2022. Samples were prepared (e.g., peeled, trimmed, de‐seeded) as they would usually be consumed. Raw, composite samples were analysed using spectrometry (polyphenols, flavonoids, anthocyanins), normal phase high‐performance liquid chromatography with ultraviolet–visible detection (lutein) and reverse phase high‐performance liquid chromatography with ultraviolet–visible detection (lycopene).
+
+
+Results
+A nationally representative dataset of two types of antioxidants (total polyphenols and flavonoids) in 86 types of fresh fruit (n = 38), dried fruit (n = 6), fresh vegetables (n = 38) and nuts (n = 4) was produced. Total anthocyanins, lutein and lycopene were measured in a subset of foods.
+
+
+Conclusions
+The new data reflect current growing practices, varieties, climate, and analytical methods and provide information that will assist consumer education on sources of dietary antioxidants.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;This cross-sectional study aimed to measure total polyphenols, total flavonoids, total anthocyanins, lutein and lycopene in Australian-grown horticultural commodities.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Primary samples (&lt;i&gt;n&lt;/i&gt; = 822) of Australian-grown fruit, vegetables and nuts were purchased during peak growing season in Sydney, Melbourne and Perth between June 2021 and May 2022. Samples were prepared (e.g., peeled, trimmed, de-seeded) as they would usually be consumed. Raw, composite samples were analysed using spectrometry (polyphenols, flavonoids, anthocyanins), normal phase high-performance liquid chromatography with ultraviolet–visible detection (lutein) and reverse phase high-performance liquid chromatography with ultraviolet–visible detection (lycopene).&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;A nationally representative dataset of two types of antioxidants (total polyphenols and flavonoids) in 86 types of fresh fruit (&lt;i&gt;n&lt;/i&gt; = 38), dried fruit (&lt;i&gt;n&lt;/i&gt; = 6), fresh vegetables (&lt;i&gt;n&lt;/i&gt; = 38) and nuts (&lt;i&gt;n&lt;/i&gt; = 4) was produced. Total anthocyanins, lutein and lycopene were measured in a subset of foods.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;The new data reflect current growing practices, varieties, climate, and analytical methods and provide information that will assist consumer education on sources of dietary antioxidants.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Judy Cunningham, 
+Lucinda J. Black, 
+Stuart K. Johnson, 
+Paul Adorno, 
+Georgios Dabos, 
+Shari Fatupaito, 
+Aliki Kalmpourtzidou, 
+Eleanor Dunlop
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Development of a database for non‐nutritive antioxidants in Australian‐grown horticultural commodities</dc:title>
+         <dc:identifier>10.1111/1747-0080.70029</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70029</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70029?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70026?af=R</link>
+         <pubDate>Thu, 10 Jul 2025 19:24:57 -0700</pubDate>
+         <dc:date>2025-07-10T07:24:57-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70026</guid>
+         <title>Cultural immersion: Embedding Torres Strait Islander (Melanesian) history, culture, diet and health in dietetics curricula</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aims
+To describe a Torres Strait (Melanesian) cultural immersion delivered to dietetics students at a large university in Australia and to understand whether cultural immersion supports the development of students' knowledge and skills in relation to specific Dietitians Australia performance criteria.
+
+
+Methods
+The cultural immersion was co‐designed, analysed, and reported through an iterative process with a Torres Strait immersion educator from the Eastern Islands, a First Nations researcher, and a dietetics academic. The cultural immersion included an opening ceremony, four station rotations of creation stories through weaving; food preparation; artefacts and cultural dance; and yarning about health, as well as a closing ceremony. A mixed methods approach was used. Data from pre‐ and post‐surveys were analysed with Wilcoxon Signed Rank Test or paired t‐test, and integrated with the thematic analysis of focus group interviews to provide context, depth and perspectives.
+
+
+Results
+Forty‐eight students completed pre‐ and post‐surveys, and 25 participated in focus groups. Through working at the knowledge interface, students' general knowledge on Torres Strait Islander history, culture, diet and health increased (all p &lt; 0.001). The cultural immersion supported the development of competence through reframing the narrative and experiential learning, impacted their journey as dietitians by promoting reflection, and increased their perceived confidence in working with Torres Strait Islander populations in a health setting.
+
+
+Conclusions
+This cultural immersion enriched dietetics students' understanding of Torres Strait Islander history, culture, diet, and health. Cultural immersion is one teaching method that can be used within an integrated suite of education strategies to support the development of Aboriginal and Torres Strait Islander health competencies.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;To describe a Torres Strait (Melanesian) cultural immersion delivered to dietetics students at a large university in Australia and to understand whether cultural immersion supports the development of students' knowledge and skills in relation to specific Dietitians Australia performance criteria.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;The cultural immersion was co-designed, analysed, and reported through an iterative process with a Torres Strait immersion educator from the Eastern Islands, a First Nations researcher, and a dietetics academic. The cultural immersion included an opening ceremony, four station rotations of creation stories through weaving; food preparation; artefacts and cultural dance; and yarning about health, as well as a closing ceremony. A mixed methods approach was used. Data from pre- and post-surveys were analysed with Wilcoxon Signed Rank Test or paired t-test, and integrated with the thematic analysis of focus group interviews to provide context, depth and perspectives.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Forty-eight students completed pre- and post-surveys, and 25 participated in focus groups. Through working at the knowledge interface, students' general knowledge on Torres Strait Islander history, culture, diet and health increased (all &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001). The cultural immersion supported the development of competence through reframing the narrative and experiential learning, impacted their journey as dietitians by promoting reflection, and increased their perceived confidence in working with Torres Strait Islander populations in a health setting.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;This cultural immersion enriched dietetics students' understanding of Torres Strait Islander history, culture, diet, and health. Cultural immersion is one teaching method that can be used within an integrated suite of education strategies to support the development of Aboriginal and Torres Strait Islander health competencies.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Bobby Porykali, 
+Genus Passi, 
+Anna Rangan, 
+Margaret Allman‐Farinelli, 
+Juliana Chen, 
+Lucy Egelton, 
+Margaret Nicholson, 
+Merryl Ireland, 
+Jacquelin Vidor, 
+Jacqueline W. S. Chan, 
+Michelle Dickson, 
+Alyse Davies
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Cultural immersion: Embedding Torres Strait Islander (Melanesian) history, culture, diet and health in dietetics curricula</dc:title>
+         <dc:identifier>10.1111/1747-0080.70026</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70026</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70026?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70028?af=R</link>
+         <pubDate>Thu, 10 Jul 2025 19:18:50 -0700</pubDate>
+         <dc:date>2025-07-10T07:18:50-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70028</guid>
+         <title>The environmental impact of tray‐line packaging waste at an Australian tertiary hospital: Retrospective observational study</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aims
+To quantify the volume of tray‐line packaging waste at an Australian metropolitan tertiary hospital and explore current disposal methods and their environmental impact.
+
+
+Methods
+The patient menu ordering system was used to retrospectively quantify packaged menu items served on the tray‐line from March 2023 to March 2024, with some of the data extrapolated from a 3‐month period to provide an estimate of 12‐month quantities. The packaged weight of all menu items was multiplied by the number of times they were plated and served to patients. Carbon emissions (expressed as carbon equivalents) were calculated using the methods outlined in the Australian Government National Greenhouse Accounts Factors 2023.
+
+
+Results
+Packaging waste was analysed for 1068 main meals and 712 mid‐meals over 365 days. Sixteen tonnes of food packaging was sent to patients, all of which was sent to landfill. This equates to 7.73 tonnes of carbon equivalents. Of this food packaging, 9.4 tonnes of waste (60%) had the potential to be recycled and diverted from landfill.
+
+
+Conclusion
+This study quantified the annual packing waste generated from this tertiary hospital food service tray‐line. Implementation of a recycling system could divert significant packaging waste from landfill and reduce carbon emissions.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;To quantify the volume of tray-line packaging waste at an Australian metropolitan tertiary hospital and explore current disposal methods and their environmental impact.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;The patient menu ordering system was used to retrospectively quantify packaged menu items served on the tray-line from March 2023 to March 2024, with some of the data extrapolated from a 3-month period to provide an estimate of 12-month quantities. The packaged weight of all menu items was multiplied by the number of times they were plated and served to patients. Carbon emissions (expressed as carbon equivalents) were calculated using the methods outlined in the Australian Government National Greenhouse Accounts Factors 2023.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Packaging waste was analysed for 1068 main meals and 712 mid-meals over 365 days. Sixteen tonnes of food packaging was sent to patients, all of which was sent to landfill. This equates to 7.73 tonnes of carbon equivalents. Of this food packaging, 9.4 tonnes of waste (60%) had the potential to be recycled and diverted from landfill.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;This study quantified the annual packing waste generated from this tertiary hospital food service tray-line. Implementation of a recycling system could divert significant packaging waste from landfill and reduce carbon emissions.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Lucas Hall, 
+Aimee Dow, 
+Katherine Burns, 
+Joyce Sadek, 
+Deana Sikovska, 
+Ashleigh Allen, 
+Monika Page, 
+Scott McAlister, 
+Kym Wittholz
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>The environmental impact of tray‐line packaging waste at an Australian tertiary hospital: Retrospective observational study</dc:title>
+         <dc:identifier>10.1111/1747-0080.70028</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70028</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70028?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70023?af=R</link>
+         <pubDate>Fri, 04 Jul 2025 06:09:38 -0700</pubDate>
+         <dc:date>2025-07-04T06:09:38-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70023</guid>
+         <title>Professional supervision in dietetics: A comprehensive, narrative literature review</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aim
+This review aims to synthesise the evidence on supervision in dietetics and other health professions to (1) provide an evidence‐based definition of supervision for dietetics and (2) translate this evidence to dietetics practice through developing a conceptualisation of the key components of supervision for dietitians.
+
+
+Methods
+A comprehensive narrative literature review was used to extract and synthesise supervision research data from (1) four bibliographic databases (Medline, CINAHL, ERIC, ProQuest), (2) two dietetic‐specific journals, (3) the databases of two subject matter experts and (4) grey literature including position statements by Australian and international government health and professional governing bodies. The findings were synthesised by consensus between four authors, all supervision specialists.
+
+
+Results
+Fifty‐one items of scholarship were reviewed and summarised as informing the evidence synthesis. A definition of supervision for dietetics is presented. The conceptualisation of the key elements of supervision includes (1) the supervisor, supervisee, supervisory alliance, and contracting; (2) supervision functions and outcomes; (3) frequency of supervision and (4) formats of supervision.
+
+
+Conclusion
+Supervision should form a regular part of all dietitians' practice and commitment to ongoing learning. It is a core component of contemporary dietetic practice and is recommended as a key part of professional development across the professional career trajectory.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;This review aims to synthesise the evidence on supervision in dietetics and other health professions to (1) provide an evidence-based definition of supervision for dietetics and (2) translate this evidence to dietetics practice through developing a conceptualisation of the key components of supervision for dietitians.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;A comprehensive narrative literature review was used to extract and synthesise supervision research data from (1) four bibliographic databases (Medline, CINAHL, ERIC, ProQuest), (2) two dietetic-specific journals, (3) the databases of two subject matter experts and (4) grey literature including position statements by Australian and international government health and professional governing bodies. The findings were synthesised by consensus between four authors, all supervision specialists.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Fifty-one items of scholarship were reviewed and summarised as informing the evidence synthesis. A definition of supervision for dietetics is presented. The conceptualisation of the key elements of supervision includes (1) the supervisor, supervisee, supervisory alliance, and contracting; (2) supervision functions and outcomes; (3) frequency of supervision and (4) formats of supervision.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Supervision should form a regular part of all dietitians' practice and commitment to ongoing learning. It is a core component of contemporary dietetic practice and is recommended as a key part of professional development across the professional career trajectory.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Tara Crow, 
+Laura Kiely, 
+Deanne Harris, 
+Claire Palermo
+</dc:creator>
+         <category>REVIEW</category>
+         <dc:title>Professional supervision in dietetics: A comprehensive, narrative literature review</dc:title>
+         <dc:identifier>10.1111/1747-0080.70023</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70023</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70023?af=R</prism:url>
+         <prism:section>REVIEW</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70025?af=R</link>
+         <pubDate>Wed, 18 Jun 2025 19:48:12 -0700</pubDate>
+         <dc:date>2025-06-18T07:48:12-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70025</guid>
+         <title>Iodine and selenium intakes and status and thyroid function in midlife women with low bread intakes in New Zealand</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aims
+Iodine and selenium are important nutrients for thyroid function; however, the New Zealand food supply is generally low in both minerals. Bread can be a good source of these minerals; although the popularity of lower carbohydrate diets means some people avoid bread. This study aimed to investigate the effect of low bread intakes on iodine and selenium intakes and status, and thyroid function in mid‐life women in New Zealand.
+
+
+Methods
+Self‐selecting women (n = 46), aged 40–63 years, with a mean daily intake of 1.6 ± 1.5 slices of fortified commercial bread, were recruited into a cross‐sectional study in Auckland, New Zealand. Assessment of iodine and selenium intake was via a 3‐day diet diary. Iodine and selenium concentrations were measured in 24‐h urine samples and selenium concentrations in plasma using inductively coupled plasma mass spectrometry. Thyroid hormones including triiodothyronine and thyroxine were also determined.
+
+
+Results
+Median urinary iodine concentration was 49 (35, 78; 25, 75 centile) μg/L indicating iodine deficiency. Of plasma samples measured, 32% had selenium concentrations below 110 μg/L, suggesting inadequacy. Data suggested at least 40% of participants had low intakes of both nutrients. Only two participants had impaired thyroid function; however, plasma selenium concentrations predicted the ratio of triiodothyronine to thyroxine (p = 0.038).
+
+
+Conclusions
+A high prevalence of inadequate selenium and iodine intake was observed in women with low bread intakes. Those with low bread intakes need to ensure they consume alternative sources such as dairy, fish and seafood, eggs, meat, other grains, and nuts.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;Iodine and selenium are important nutrients for thyroid function; however, the New Zealand food supply is generally low in both minerals. Bread can be a good source of these minerals; although the popularity of lower carbohydrate diets means some people avoid bread. This study aimed to investigate the effect of low bread intakes on iodine and selenium intakes and status, and thyroid function in mid-life women in New Zealand.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Self-selecting women (&lt;i&gt;n&lt;/i&gt; = 46), aged 40–63 years, with a mean daily intake of 1.6 ± 1.5 slices of fortified commercial bread, were recruited into a cross-sectional study in Auckland, New Zealand. Assessment of iodine and selenium intake was via a 3-day diet diary. Iodine and selenium concentrations were measured in 24-h urine samples and selenium concentrations in plasma using inductively coupled plasma mass spectrometry. Thyroid hormones including triiodothyronine and thyroxine were also determined.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Median urinary iodine concentration was 49 (35, 78; 25, 75 centile) μg/L indicating iodine deficiency. Of plasma samples measured, 32% had selenium concentrations below 110 μg/L, suggesting inadequacy. Data suggested at least 40% of participants had low intakes of both nutrients. Only two participants had impaired thyroid function; however, plasma selenium concentrations predicted the ratio of triiodothyronine to thyroxine (&lt;i&gt;p&lt;/i&gt; = 0.038).&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;A high prevalence of inadequate selenium and iodine intake was observed in women with low bread intakes. Those with low bread intakes need to ensure they consume alternative sources such as dairy, fish and seafood, eggs, meat, other grains, and nuts.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Jaime Berger, 
+Jacqueline Finlayson, 
+Pamela R. von Hurst, 
+Louise Brough
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Iodine and selenium intakes and status and thyroid function in midlife women with low bread intakes in New Zealand</dc:title>
+         <dc:identifier>10.1111/1747-0080.70025</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70025</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70025?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70024?af=R</link>
+         <pubDate>Wed, 18 Jun 2025 19:44:10 -0700</pubDate>
+         <dc:date>2025-06-18T07:44:10-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70024</guid>
+         <title>Vale Elaine Mary Goggin nee Miatt, 12th October 1924 to 29th March 2025</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Beverley Wood
+</dc:creator>
+         <category>LETTER TO THE EDITOR</category>
+         <dc:title>Vale Elaine Mary Goggin nee Miatt, 12th October 1924 to 29th March 2025</dc:title>
+         <dc:identifier>10.1111/1747-0080.70024</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70024</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70024?af=R</prism:url>
+         <prism:section>LETTER TO THE EDITOR</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70009?af=R</link>
+         <pubDate>Mon, 16 Jun 2025 01:12:32 -0700</pubDate>
+         <dc:date>2025-06-16T01:12:32-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/1747-0080.70009</guid>
+         <title>The changing landscape of dietetic education in Australia</title>
+         <description>Nutrition &amp;amp;Dietetics, Volume 82, Issue 3, Page 348-350, June 2025. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Fiona Pelly, 
+Hattie Wright, 
+Libby Swanepoel, 
+Anthony Villani
+</dc:creator>
+         <category>LETTER TO THE EDITOR</category>
+         <dc:title>The changing landscape of dietetic education in Australia</dc:title>
+         <dc:identifier>10.1111/1747-0080.70009</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70009</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70009?af=R</prism:url>
+         <prism:section>LETTER TO THE EDITOR</prism:section>
+         <prism:volume>82</prism:volume>
+         <prism:number>3</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70022?af=R</link>
+         <pubDate>Mon, 16 Jun 2025 01:12:32 -0700</pubDate>
+         <dc:date>2025-06-16T01:12:32-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/1747-0080.70022</guid>
+         <title>Dietitians as activists—Using public health to advocate for human and planetary health</title>
+         <description>Nutrition &amp;amp;Dietetics, Volume 82, Issue 3, Page 248-250, June 2025. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator>
+Danielle Gallegos
+</dc:creator>
+         <category>EDITORIAL</category>
+         <dc:title>Dietitians as activists—Using public health to advocate for human and planetary health</dc:title>
+         <dc:identifier>10.1111/1747-0080.70022</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70022</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70022?af=R</prism:url>
+         <prism:section>EDITORIAL</prism:section>
+         <prism:volume>82</prism:volume>
+         <prism:number>3</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12888?af=R</link>
+         <pubDate>Mon, 16 Jun 2025 01:12:32 -0700</pubDate>
+         <dc:date>2025-06-16T01:12:32-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/1747-0080.12888</guid>
+         <title>Issue Information</title>
+         <description>Nutrition &amp;amp;Dietetics, Volume 82, Issue 3, Page 245-247, June 2025. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>ISSUE INFORMATION</category>
+         <dc:title>Issue Information</dc:title>
+         <dc:identifier>10.1111/1747-0080.12888</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.12888</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12888?af=R</prism:url>
+         <prism:section>ISSUE INFORMATION</prism:section>
+         <prism:volume>82</prism:volume>
+         <prism:number>3</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12921?af=R</link>
+         <pubDate>Mon, 16 Jun 2025 01:12:32 -0700</pubDate>
+         <dc:date>2025-06-16T01:12:32-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/1747-0080.12921</guid>
+         <title>Changes in food behaviours during the first COVID‐19 pandemic lockdown in Australia</title>
+         <description>Nutrition &amp;amp;Dietetics, Volume 82, Issue 3, Page 301-308, June 2025. </description>
+         <dc:description>
+Abstract
+
+Aim
+The objective of this study was to explore changes in Australian consumer food behaviours during COVID‐19 public health restrictions (lockdown), to provide insights into how this unforeseen crisis event affected dietary behaviour patterns.
+
+
+Methods
+An online cross‐sectional survey was conducted in September 2020 with a nationally representative sample of the Australian adult population. Participants were asked to complete questions about (1) meal planning and food purchasing and (2) barriers to cooking, before and during a national‐wide COVID‐19 lockdown in early 2020. A survey‐adjusted logistic regression analysis was used to identify food behaviour changes resulting from the lockdown.
+
+
+Results
+A total of 4022 respondents completed the survey. Overall, food behaviour changes were found to be small and mostly positive. Eight of the 14 meal planning and purchasing related behaviours improved. This included more frequent meal planning and more time to be able to cook. However, not all changes were healthier, with more respondents reporting that they cooked meals at home using healthy ingredients less frequently during the lockdown.
+
+
+Conclusion
+These findings demonstrate that people are willing and able to make some positive changes when they have time but that more work needs to be done to ensure that the improvements in food literacy result in healthier meals. Further consideration also needs to be given to how we can embed and amplify these positive changes into everyday habits now that public health restrictions have lifted and Australia is in post‐lockdown reality.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;The objective of this study was to explore changes in Australian consumer food behaviours during COVID-19 public health restrictions (lockdown), to provide insights into how this unforeseen crisis event affected dietary behaviour patterns.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;An online cross-sectional survey was conducted in September 2020 with a nationally representative sample of the Australian adult population. Participants were asked to complete questions about (1) meal planning and food purchasing and (2) barriers to cooking, before and during a national-wide COVID-19 lockdown in early 2020. A survey-adjusted logistic regression analysis was used to identify food behaviour changes resulting from the lockdown.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;A total of 4022 respondents completed the survey. Overall, food behaviour changes were found to be small and mostly positive. Eight of the 14 meal planning and purchasing related behaviours improved. This included more frequent meal planning and more time to be able to cook. However, not all changes were healthier, with more respondents reporting that they cooked meals at home using healthy ingredients less frequently during the lockdown.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;These findings demonstrate that people are willing and able to make some positive changes when they have time but that more work needs to be done to ensure that the improvements in food literacy result in healthier meals. Further consideration also needs to be given to how we can embed and amplify these positive changes into everyday habits now that public health restrictions have lifted and Australia is in post-lockdown reality.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Aliyah Palu, 
+Juliette Crowther, 
+Ashleigh Chanel Hart, 
+Joseph Alvin Santos, 
+Emalie Rosewarne, 
+Simone Pettigrew, 
+Annet C. Hoek, 
+Kathy Trieu, 
+Jacqui Webster
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Changes in food behaviours during the first COVID‐19 pandemic lockdown in Australia</dc:title>
+         <dc:identifier>10.1111/1747-0080.12921</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.12921</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12921?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+         <prism:volume>82</prism:volume>
+         <prism:number>3</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70015?af=R</link>
+         <pubDate>Mon, 16 Jun 2025 01:12:32 -0700</pubDate>
+         <dc:date>2025-06-16T01:12:32-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/1747-0080.70015</guid>
+         <title>Exploring behaviour change skill development during final placements: Practice educator and student perspectives</title>
+         <description>Nutrition &amp;amp;Dietetics, Volume 82, Issue 3, Page 337-347, June 2025. </description>
+         <dc:description>
+Abstract
+
+Aims
+The integration of behaviour change science into dietetics education is crucial for developing competent health practitioners. However, the ability of final placements to provide student dietitians with the opportunity to practice skills for supporting dietary behaviour change is not yet understood. This study aims to explore how placements shape the development of dietetics students' knowledge and skills in behaviour change through the novel approach of drawing on practice educator and student perspectives.
+
+
+Methods
+Using a constructivist approach, qualitative data were collected through semi‐structured interviews with practice educators and focus groups with graduating dietitians. Questions aimed to explore the practice educator role in developing student behaviour change skills and aspects of hospital placement that improved student confidence. Data were transcribed verbatim and analysed using inductive thematic analysis to identify key themes and sub‐themes.
+
+
+Results
+Eleven hospital‐based practice educators and eight dietetics graduands participated. Three key themes were identified: (1) limited modelling of behaviour change within a hospital placement; (2) experiential learning needed to consolidate behaviour change skill development; and (3) the need to strengthen behaviour change science in dietetics. Throughout each theme, educators and students described challenges to skill development on placement, such as limited opportunities to practise behaviour change interventions, insufficient attention to behaviour change in feedback and assessment, and differing educator confidence in teaching these skills.
+
+
+Conclusions
+This study suggests a need to strengthen opportunities for students to link theoretical and practical learning of behaviour change skills to work toward producing a workforce of confident behaviour change agents.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;The integration of behaviour change science into dietetics education is crucial for developing competent health practitioners. However, the ability of final placements to provide student dietitians with the opportunity to practice skills for supporting dietary behaviour change is not yet understood. This study aims to explore how placements shape the development of dietetics students' knowledge and skills in behaviour change through the novel approach of drawing on practice educator and student perspectives.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Using a constructivist approach, qualitative data were collected through semi-structured interviews with practice educators and focus groups with graduating dietitians. Questions aimed to explore the practice educator role in developing student behaviour change skills and aspects of hospital placement that improved student confidence. Data were transcribed verbatim and analysed using inductive thematic analysis to identify key themes and sub-themes.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Eleven hospital-based practice educators and eight dietetics graduands participated. Three key themes were identified: (1) limited modelling of behaviour change within a hospital placement; (2) experiential learning needed to consolidate behaviour change skill development; and (3) the need to strengthen behaviour change science in dietetics. Throughout each theme, educators and students described challenges to skill development on placement, such as limited opportunities to practise behaviour change interventions, insufficient attention to behaviour change in feedback and assessment, and differing educator confidence in teaching these skills.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;This study suggests a need to strengthen opportunities for students to link theoretical and practical learning of behaviour change skills to work toward producing a workforce of confident behaviour change agents.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Georgia Dallow, 
+Lauren T. Williams, 
+Emily Williams, 
+Roshan R. Rigby
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Exploring behaviour change skill development during final placements: Practice educator and student perspectives</dc:title>
+         <dc:identifier>10.1111/1747-0080.70015</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70015</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70015?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+         <prism:volume>82</prism:volume>
+         <prism:number>3</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12908?af=R</link>
+         <pubDate>Mon, 16 Jun 2025 01:12:32 -0700</pubDate>
+         <dc:date>2025-06-16T01:12:32-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/1747-0080.12908</guid>
+         <title>Analysing the behaviour change techniques in an effective food literacy program to inform future program design</title>
+         <description>Nutrition &amp;amp;Dietetics, Volume 82, Issue 3, Page 268-282, June 2025. </description>
+         <dc:description>
+Abstract
+
+Aim
+Food literacy programs aim to improve food related skills and knowledge and are selected Governments as a strategy to address dietary intakes at a community level. The purpose of this research is to identify behaviour change techniques in a food literacy program, which were assessed by the achievement of participant goals related to food literacy and dietary behaviour changes.
+
+
+Methods
+Consensus methods were applied to map behaviour change techniques to an adult food literacy program. A second phase investigation applied content analysis of participant process evaluation data (collected between 2016 and June 2021) to align target behaviours and behaviour change techniques. Chi‐square and ANCOVA were used to assess the statistically significant demographic characteristics, food literacy, and dietary behaviour scores for participants who set goals and recorded changes.
+
+
+Results
+A total of 4697 program participants provided evaluation data from the 4‐week food literacy program. Participants who set goals and made changes were statistically more likely to have higher food literacy factor scores (p &lt; 0.001) and fruit serves (p = 0.004). Statistical analysis showed that participants were more likely to have set goals and recorded changes if they were female (p &lt; 0.001), older (p &lt; 0.001), higher education level (p &lt; 0.001), had a higher socioeconomic status (p = 0.049), lived with children (p = 0.014), were born in Australia (p = 0.019), or did not identify as Indigenous (p &lt; 0.001). The behaviour change technique mapping process identified nine techniques used weekly and a total of 22 techniques used over the entire 4 week program curriculum.
+
+
+Conclusions
+This is the first Australian study to link the contribution of behaviour change techniques to food literacy and dietary behaviour change in an established effective food literacy program. Knowing the behaviour change techniques associated with effective programs will facilitate replication of effective interventions.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;Food literacy programs aim to improve food related skills and knowledge and are selected Governments as a strategy to address dietary intakes at a community level. The purpose of this research is to identify behaviour change techniques in a food literacy program, which were assessed by the achievement of participant goals related to food literacy and dietary behaviour changes.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Consensus methods were applied to map behaviour change techniques to an adult food literacy program. A second phase investigation applied content analysis of participant process evaluation data (collected between 2016 and June 2021) to align target behaviours and behaviour change techniques. Chi-square and ANCOVA were used to assess the statistically significant demographic characteristics, food literacy, and dietary behaviour scores for participants who set goals and recorded changes.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;A total of 4697 program participants provided evaluation data from the 4-week food literacy program. Participants who set goals and made changes were statistically more likely to have higher food literacy factor scores (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001) and fruit serves (&lt;i&gt;p&lt;/i&gt; = 0.004). Statistical analysis showed that participants were more likely to have set goals and recorded changes if they were female (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001), older (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001), higher education level (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001), had a higher socioeconomic status (&lt;i&gt;p&lt;/i&gt; = 0.049), lived with children (&lt;i&gt;p&lt;/i&gt; = 0.014), were born in Australia (&lt;i&gt;p&lt;/i&gt; = 0.019), or did not identify as Indigenous (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001). The behaviour change technique mapping process identified nine techniques used weekly and a total of 22 techniques used over the entire 4 week program curriculum.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;This is the first Australian study to link the contribution of behaviour change techniques to food literacy and dietary behaviour change in an established effective food literacy program. Knowing the behaviour change techniques associated with effective programs will facilitate replication of effective interventions.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Lucy M. Butcher, 
+Caylah Batt, 
+Sophie Royce, 
+Eamon Barron, 
+Roslyn Giglia, 
+Andrea Begley
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Analysing the behaviour change techniques in an effective food literacy program to inform future program design</dc:title>
+         <dc:identifier>10.1111/1747-0080.12908</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.12908</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12908?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+         <prism:volume>82</prism:volume>
+         <prism:number>3</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12920?af=R</link>
+         <pubDate>Mon, 16 Jun 2025 01:12:32 -0700</pubDate>
+         <dc:date>2025-06-16T01:12:32-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/1747-0080.12920</guid>
+         <title>Investigating the nutritional quality of charitable ready meals for people experiencing food insecurity—An Australian case study</title>
+         <description>Nutrition &amp;amp;Dietetics, Volume 82, Issue 3, Page 251-258, June 2025. </description>
+         <dc:description>
+Abstract
+
+Aim
+To analyse the nutritional quality of ready meals produced by a food relief charity in Melbourne, Victoria, to identify areas of nutritional strength and opportunities for improvement.
+
+
+Methods
+Data for this cross‐sectional study were collected over 30 consecutive cooking days in January–February, May–June, and October–November 2023. Chefs used pre‐specified, standardised forms to collect data such as raw ingredients and cooked weights. Data collected were entered into FoodWorks 10 for analysis. Average nutrient content and number of food group serves per meal were reported. Six criteria were used to assess nutritional quality, for noncommunicable disease prevention: contains ≥1 serve (i.e., ≥75 g) non‐starchy vegetables per meal, does not contain processed meats, used wholegrains, sodium &lt;700 mg/meal, sugar &lt;15 g/100 g, and unsaturated: saturated fat ratio ≥2:1.
+
+
+Results
+Ninety meal batches were collected and analysed per single meal serving. All meals contained ≥1 serve of non‐starchy vegetables and &lt;15 g of sugar/100 g. Two out of 90 meals contained processed meats (i.e., sausages), and only one meal used wholegrains. Half of all meals met the &lt;700 mg sodium/meal criteria, with the meals containing a mean (SD) 794 mg (378.5) of sodium. Most meals (62%) did not meet the ≥2:1 unsaturated: saturated fat ratio.
+
+
+Conclusions
+Meals contained adequate non‐starchy vegetable content, were low in sugar, and had minimal use of processed meats. Improvements could be made to their wholegrain, sodium, and fat content. Improving the nutritional quality of charitable meals could significantly improve recipients' health, without detracting from the call for policy action on food insecurity.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;To analyse the nutritional quality of ready meals produced by a food relief charity in Melbourne, Victoria, to identify areas of nutritional strength and opportunities for improvement.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Data for this cross-sectional study were collected over 30 consecutive cooking days in January–February, May–June, and October–November 2023. Chefs used pre-specified, standardised forms to collect data such as raw ingredients and cooked weights. Data collected were entered into FoodWorks 10 for analysis. Average nutrient content and number of food group serves per meal were reported. Six criteria were used to assess nutritional quality, for noncommunicable disease prevention: contains ≥1 serve (i.e., ≥75 g) non-starchy vegetables per meal, does not contain processed meats, used wholegrains, sodium &amp;lt;700 mg/meal, sugar &amp;lt;15 g/100 g, and unsaturated: saturated fat ratio ≥2:1.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Ninety meal batches were collected and analysed per single meal serving. All meals contained ≥1 serve of non-starchy vegetables and &amp;lt;15 g of sugar/100 g. Two out of 90 meals contained processed meats (i.e., sausages), and only one meal used wholegrains. Half of all meals met the &amp;lt;700 mg sodium/meal criteria, with the meals containing a mean (SD) 794 mg (378.5) of sodium. Most meals (62%) did not meet the ≥2:1 unsaturated: saturated fat ratio.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Meals contained adequate non-starchy vegetable content, were low in sugar, and had minimal use of processed meats. Improvements could be made to their wholegrain, sodium, and fat content. Improving the nutritional quality of charitable meals could significantly improve recipients' health, without detracting from the call for policy action on food insecurity.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Kristy K. Law, 
+Kathy Trieu, 
+Emma James, 
+Crickette Derjeu, 
+Belinda Zheng, 
+Maoyi Tian, 
+Tengyi Wang, 
+Jason H. Y. Wu
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Investigating the nutritional quality of charitable ready meals for people experiencing food insecurity—An Australian case study</dc:title>
+         <dc:identifier>10.1111/1747-0080.12920</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.12920</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12920?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+         <prism:volume>82</prism:volume>
+         <prism:number>3</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12925?af=R</link>
+         <pubDate>Mon, 16 Jun 2025 01:12:32 -0700</pubDate>
+         <dc:date>2025-06-16T01:12:32-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/1747-0080.12925</guid>
+         <title>Public health interventions targeted at discretionary food portion control: A qualitative study from consumers' perspectives</title>
+         <description>Nutrition &amp;amp;Dietetics, Volume 82, Issue 3, Page 259-267, June 2025. </description>
+         <dc:description>
+Abstract
+
+Aim
+This qualitative study aimed to gain insights from Australian consumers to inform the development of potential interventions to facilitate better portion control of discretionary foods.
+
+
+Methods
+Four focus group sessions were conducted online with Australian adults (aged 18–65). A semi‐structured question guide with proposed interventions in selected settings (cafes and supermarkets) was developed to moderate the discussion. Collected data were analysed using a combined approach; deductive thematic analysis was conducted using a predeveloped codebook, followed by inductive thematic analysis which was used to capture additional patterns raised from the data.
+
+
+Results
+A total of 35 participants completed the study (mean age 38, 19 females). Three major themes were identified; (1) portion control challenges posed by the food environment, (2) support for portion size interventions conditional upon consistent unit pricing, and (3) the trade‐off between smaller sizes, cost, and packaging waste. The current food environment was identified as promoting overconsumption, with larger serving sizes reported to be more ubiquitous and better value for money than smaller sizes. Participants mostly supported interventions that improve portion control of discretionary foods by providing a wider range of serving size options that meet their personal preferences, with proportional pricing whilst simultaneously reducing default serving sizes. However, the increase in packaging waste as a result of the greater availability of smaller packages was noted as a concern.
+
+
+Conclusions
+Future research should focus on gathering more representative data from various population subgroups to inform public health recommendations aimed at improving discretionary food portion control.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;This qualitative study aimed to gain insights from Australian consumers to inform the development of potential interventions to facilitate better portion control of discretionary foods.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Four focus group sessions were conducted online with Australian adults (aged 18–65). A semi-structured question guide with proposed interventions in selected settings (cafes and supermarkets) was developed to moderate the discussion. Collected data were analysed using a combined approach; deductive thematic analysis was conducted using a predeveloped codebook, followed by inductive thematic analysis which was used to capture additional patterns raised from the data.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;A total of 35 participants completed the study (mean age 38, 19 females). Three major themes were identified; (1) portion control challenges posed by the food environment, (2) support for portion size interventions conditional upon consistent unit pricing, and (3) the trade-off between smaller sizes, cost, and packaging waste. The current food environment was identified as promoting overconsumption, with larger serving sizes reported to be more ubiquitous and better value for money than smaller sizes. Participants mostly supported interventions that improve portion control of discretionary foods by providing a wider range of serving size options that meet their personal preferences, with proportional pricing whilst simultaneously reducing default serving sizes. However, the increase in packaging waste as a result of the greater availability of smaller packages was noted as a concern.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Future research should focus on gathering more representative data from various population subgroups to inform public health recommendations aimed at improving discretionary food portion control.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Qingzhou Liu, 
+Leanne Wang, 
+Margaret Allman‐Farinelli, 
+Anna Rangan
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Public health interventions targeted at discretionary food portion control: A qualitative study from consumers' perspectives</dc:title>
+         <dc:identifier>10.1111/1747-0080.12925</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.12925</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12925?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+         <prism:volume>82</prism:volume>
+         <prism:number>3</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70002?af=R</link>
+         <pubDate>Mon, 16 Jun 2025 01:12:32 -0700</pubDate>
+         <dc:date>2025-06-16T01:12:32-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/1747-0080.70002</guid>
+         <title>Choice on the menu in residential aged care: An underrated tool for maintaining resident autonomy</title>
+         <description>Nutrition &amp;amp;Dietetics, Volume 82, Issue 3, Page 327-336, June 2025. </description>
+         <dc:description>
+Abstract
+
+Aims
+This qualitative study aimed to explore residents' experiences of autonomy in relation to their meals pre and post‐intervention, which implemented a restaurant‐style dining service and increased the number of meal choices available in one residential aged care home.
+
+
+Methods
+Participants completed semi‐structured interviews pre‐ and post‐intervention. Interviews were transcribed and analysed using reflexive thematic analysis. Adopting an interpretivist approach, the researchers prioritised participants' subjective experiences and engaged collaboratively in reflexive practices to examine their positionality while developing themes.
+
+
+Results
+Twenty participants completed pre‐interviews and eighteen completed post‐interviews. Themes developed from pre‐intervention interviews included ‘Autonomy in residential aged care homes: Ideal versus reality’, ‘Values and expectations of residential aged care’ and ‘Disempowerment within residential aged care systems’. Themes from post intervention interviews included ‘Reclaiming Autonomy’ ‘System design to support autonomy and Autonomy beyond meal choice’.
+
+
+Conclusion
+Residents in residential aged care encounter institutional factors that undermine their sense of autonomy. However, foodservice systems have the potential to enhance choice and autonomy and positively impact residents.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;This qualitative study aimed to explore residents' experiences of autonomy in relation to their meals pre and post-intervention, which implemented a restaurant-style dining service and increased the number of meal choices available in one residential aged care home.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Participants completed semi-structured interviews pre- and post-intervention. Interviews were transcribed and analysed using reflexive thematic analysis. Adopting an interpretivist approach, the researchers prioritised participants' subjective experiences and engaged collaboratively in reflexive practices to examine their positionality while developing themes.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Twenty participants completed pre-interviews and eighteen completed post-interviews. Themes developed from pre-intervention interviews included ‘Autonomy in residential aged care homes: Ideal versus reality’, ‘Values and expectations of residential aged care’ and ‘Disempowerment within residential aged care systems’. Themes from post intervention interviews included ‘Reclaiming Autonomy’ ‘System design to support autonomy and Autonomy beyond meal choice’.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Residents in residential aged care encounter institutional factors that undermine their sense of autonomy. However, foodservice systems have the potential to enhance choice and autonomy and positively impact residents.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Mikaela Wheeler, 
+Karen L. Abbey, 
+Sandra M. Capra
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Choice on the menu in residential aged care: An underrated tool for maintaining resident autonomy</dc:title>
+         <dc:identifier>10.1111/1747-0080.70002</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70002</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70002?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+         <prism:volume>82</prism:volume>
+         <prism:number>3</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70014?af=R</link>
+         <pubDate>Mon, 16 Jun 2025 01:12:32 -0700</pubDate>
+         <dc:date>2025-06-16T01:12:32-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/1747-0080.70014</guid>
+         <title>Developing a food list for a new 24‐h dietary recall tool for New Zealand</title>
+         <description>Nutrition &amp;amp;Dietetics, Volume 82, Issue 3, Page 292-300, June 2025. </description>
+         <dc:description>
+Abstract
+
+Aim
+A 24‐h dietary recall is commonly used in national nutrition surveys to assess population diets. Intake24, an automated United Kingdom tool, was selected and modified for use in New Zealand in 2023. This study aimed to develop a local food list for Intake24‐New Zealand.
+
+
+Methods
+A draft food list developed for the Australian 2023 National Nutrition and Physical Activity Survey was the starting point due to similarities in food supply between the two countries. Additional New Zealand foods were identified using the New Zealand Food Composition Database, New Zealand dietary intake studies, household purchasing data, and consultation with nutritionists working with ethnic communities. Food names and recipes were revised and included to reflect New Zealand versions and linked to New Zealand food composition data.
+
+
+Results
+The final New Zealand food list contained 2618 foods which included: 968 foods that were matched to nutrient lines from the New Zealand Food Composition Database; 558 new recipes; 1028 foods that were matched to other food composition databases; and 64 foods which needed to be matched.
+
+
+Conclusions
+This contemporary New Zealand food list will facilitate the use of Intake24 New Zealand in national surveys, research studies, and clinical practice.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;A 24-h dietary recall is commonly used in national nutrition surveys to assess population diets. Intake24, an automated United Kingdom tool, was selected and modified for use in New Zealand in 2023. This study aimed to develop a local food list for Intake24-New Zealand.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;A draft food list developed for the Australian 2023 National Nutrition and Physical Activity Survey was the starting point due to similarities in food supply between the two countries. Additional New Zealand foods were identified using the New Zealand Food Composition Database, New Zealand dietary intake studies, household purchasing data, and consultation with nutritionists working with ethnic communities. Food names and recipes were revised and included to reflect New Zealand versions and linked to New Zealand food composition data.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;The final New Zealand food list contained 2618 foods which included: 968 foods that were matched to nutrient lines from the New Zealand Food Composition Database; 558 new recipes; 1028 foods that were matched to other food composition databases; and 64 foods which needed to be matched.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;This contemporary New Zealand food list will facilitate the use of Intake24 New Zealand in national surveys, research studies, and clinical practice.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Sally Mackay, 
+Caitlin Haliburton, 
+Berit Follong, 
+Carolyn Lister, 
+Michelle Gibbs, 
+Cliona Ni Mhurchu
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Developing a food list for a new 24‐h dietary recall tool for New Zealand</dc:title>
+         <dc:identifier>10.1111/1747-0080.70014</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70014</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70014?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+         <prism:volume>82</prism:volume>
+         <prism:number>3</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70017?af=R</link>
+         <pubDate>Mon, 16 Jun 2025 01:12:32 -0700</pubDate>
+         <dc:date>2025-06-16T01:12:32-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/1747-0080.70017</guid>
+         <title>Identifying research priorities for paediatric nutrition for Australia: A Delphi consensus approach</title>
+         <description>Nutrition &amp;amp;Dietetics, Volume 82, Issue 3, Page 319-326, June 2025. </description>
+         <dc:description>
+Abstract
+
+Aim
+The Australian Academy of Science's Decadal Plan for the science of nutrition emphasised research investment combined with system wide changes to improve the population's nutritional health. This study applied a Delphi consensus process with the aim to develop a definition for ‘paediatric nutrition research’ alongside identifying research themes and specific key priorities.
+
+
+Methods
+Multidisciplinary health professionals with expertise in paediatric nutrition were invited to participate in an on‐line survey. Panellists contributed to refining a new definition of paediatric nutrition research. Consensus was sought on nine priority areas under which more specific topics were listed, with panellists using a 7‐point Likert scale to rate priority statements. Approval was considered where agreement was reached by ≥70% of participants, with a ranked score ≥6.
+
+
+Results
+Participants (n = 104) were invited with n =31 agreeing (response rate: 30%). The majority (n = 28) also completed round 2. The proposed definition of paediatric nutrition research was agreed by 86% of first round respondents. This process generated 7 research themes containing 30 specific topic priorities. The themes were: growth and development; health equity and priority populations; food systems and food access; Aboriginal and Torres Strait Islander Peoples; strengthening prevention and treatment; empowering children, parents, and caregivers to maximise healthy development; and strengthening the workforce.
+
+
+Conclusions
+This study will support the prioritisation of critical nutrition research questions and inform the skills and expertise required within cross‐disciplinary teams needed to tackle the identified priorities. Consultation with Aboriginal and Torres Strait Islander leaders and consumer representatives is required to understand the specific needs of priority communities.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;The Australian Academy of Science's Decadal Plan for the science of nutrition emphasised research investment combined with system wide changes to improve the population's nutritional health. This study applied a Delphi consensus process with the aim to develop a definition for ‘paediatric nutrition research’ alongside identifying research themes and specific key priorities.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Multidisciplinary health professionals with expertise in paediatric nutrition were invited to participate in an on-line survey. Panellists contributed to refining a new definition of paediatric nutrition research. Consensus was sought on nine priority areas under which more specific topics were listed, with panellists using a 7-point Likert scale to rate priority statements. Approval was considered where agreement was reached by ≥70% of participants, with a ranked score ≥6.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Participants (&lt;i&gt;n&lt;/i&gt; = 104) were invited with &lt;i&gt;n&lt;/i&gt; =31 agreeing (response rate: 30%). The majority (&lt;i&gt;n&lt;/i&gt; = 28) also completed round 2. The proposed definition of paediatric nutrition research was agreed by 86% of first round respondents. This process generated 7 research themes containing 30 specific topic priorities. The themes were: growth and development; health equity and priority populations; food systems and food access; Aboriginal and Torres Strait Islander Peoples; strengthening prevention and treatment; empowering children, parents, and caregivers to maximise healthy development; and strengthening the workforce.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;This study will support the prioritisation of critical nutrition research questions and inform the skills and expertise required within cross-disciplinary teams needed to tackle the identified priorities. Consultation with Aboriginal and Torres Strait Islander leaders and consumer representatives is required to understand the specific needs of priority communities.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Annabel Doolan, 
+Kristie Bell, 
+Danielle Gallegos, 
+Judi Porter, 
+Helen Truby
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Identifying research priorities for paediatric nutrition for Australia: A Delphi consensus approach</dc:title>
+         <dc:identifier>10.1111/1747-0080.70017</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70017</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70017?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+         <prism:volume>82</prism:volume>
+         <prism:number>3</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70021?af=R</link>
+         <pubDate>Mon, 16 Jun 2025 01:12:32 -0700</pubDate>
+         <dc:date>2025-06-16T01:12:32-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/1747-0080.70021</guid>
+         <title>Occurrence and predictors of food insecurity in a sample of pregnant women recruited from an Australian hospital</title>
+         <description>Nutrition &amp;amp;Dietetics, Volume 82, Issue 3, Page 309-318, June 2025. </description>
+         <dc:description>
+Abstract
+
+Aims
+The aim of this study is to explore the occurrence of food insecurity among pregnant women in Australia.
+
+
+Methods
+This cross‐sectional, self‐reported study included two measures of food insecurity (the US Department of Agriculture Household Food Security Survey Module and single item measure), use of emergency and community food assistance, health conditions, eating habits during pregnancy, and professional nutritional advice and health seeking behaviours. Participants were recruited using (1) an advertisement posted on social media and (2) flyers with a QR code linked to the online survey, made available for women to take from clinic rooms at a hospital in Melbourne, Victoria. Data were analysed using basic statistics, spearman's rho correlation coefficients, and linear regression to identify factors that may be associated with food insecurity among pregnant women in Australia; the study was open between May 2021 and March 2022.
+
+
+Results
+Three hundred and three valid responses were received from pregnant women in Australia. Food insecurity was determined to be 14.5% (US Department of Agriculture Household Food Security Survey Module) and 6.3% (single item used). Food insecurity was significantly associated with income, education level and age.
+
+
+Conclusions
+Results indicate a high prevalence of food insecurity among pregnant women. Routine screening and referral of food insecure pregnant women should be considered in antenatal care settings.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;The aim of this study is to explore the occurrence of food insecurity among pregnant women in Australia.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;This cross-sectional, self-reported study included two measures of food insecurity (the US Department of Agriculture Household Food Security Survey Module and single item measure), use of emergency and community food assistance, health conditions, eating habits during pregnancy, and professional nutritional advice and health seeking behaviours. Participants were recruited using (1) an advertisement posted on social media and (2) flyers with a QR code linked to the online survey, made available for women to take from clinic rooms at a hospital in Melbourne, Victoria. Data were analysed using basic statistics, spearman's rho correlation coefficients, and linear regression to identify factors that may be associated with food insecurity among pregnant women in Australia; the study was open between May 2021 and March 2022.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Three hundred and three valid responses were received from pregnant women in Australia. Food insecurity was determined to be 14.5% (US Department of Agriculture Household Food Security Survey Module) and 6.3% (single item used). Food insecurity was significantly associated with income, education level and age.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Results indicate a high prevalence of food insecurity among pregnant women. Routine screening and referral of food insecure pregnant women should be considered in antenatal care settings.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Fiona H. McKay, 
+Julia Zinga, 
+Paige van der Pligt
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Occurrence and predictors of food insecurity in a sample of pregnant women recruited from an Australian hospital</dc:title>
+         <dc:identifier>10.1111/1747-0080.70021</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70021</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70021?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+         <prism:volume>82</prism:volume>
+         <prism:number>3</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12919?af=R</link>
+         <pubDate>Mon, 16 Jun 2025 01:12:32 -0700</pubDate>
+         <dc:date>2025-06-16T01:12:32-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 01 Jun 2025 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/1747-0080.12919</guid>
+         <title>Creating a food environment scoring index for online food delivery outlets: Delphi study with Australian nutrition and public health professionals</title>
+         <description>Nutrition &amp;amp;Dietetics, Volume 82, Issue 3, Page 283-291, June 2025. </description>
+         <dc:description>
+Abstract
+
+Aims
+This study aimed to develop a scoring index for the healthfulness of food outlet menu offerings available through Australian delivery platforms.
+
+
+Methods
+The Delphi method was employed to achieve consensus among a panel of Australian nutrition and public health experts regarding the food environment scores assigned to online food outlets, classified by type. From previous studies and scoping of delivery platforms, 36 food outlet types were identified. Australian nutrition and public health experts were recruited to complete an online Delphi survey to score the healthfulness of these outlets using a scale from −10 (least healthful) to +10 (most healthful), based on typical menu offerings. The first round of the survey was opened for approximately 5 weeks in July to August 2023, and the second round was opened for 2 weeks in September 2023. The mean food environment score, minimum and maximum awarded food environment score, and SD for each outlet type, and coefficient of variation was calculated after each survey round to provide a measure of the spread of the data around the mean and the degree of consistency in the distribution of responses. Following the second survey round, results were assessed for consensus among the participants.
+
+
+Results
+Fifty‐four participants completed the round one survey, and n=14 completed round two. The majority of online food delivery outlet types received a food environment score of less than +5, and were considered ‘less healthful.’ Participants scored greengrocers as the most healthful outlet type (mean food environment score of 8.83 ± 0.37) and liquor selling stores as the least healthful (score of −8.10 ± 1.14). The group reached consensus after two survey rounds due to decreases in the standard deviations of mean food environment scores.
+
+
+Conclusions
+This study provides an expert‐informed tool, the DIGIASSESS tool, that can be easily applied by researchers, policy makers, health workers and public health professionals to understand the rapidly evolving online food delivery environment, including changes over time and areas for potential intervention.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;This study aimed to develop a scoring index for the healthfulness of food outlet menu offerings available through Australian delivery platforms.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;The Delphi method was employed to achieve consensus among a panel of Australian nutrition and public health experts regarding the food environment scores assigned to online food outlets, classified by type. From previous studies and scoping of delivery platforms, 36 food outlet types were identified. Australian nutrition and public health experts were recruited to complete an online Delphi survey to score the healthfulness of these outlets using a scale from −10 (least healthful) to +10 (most healthful), based on typical menu offerings. The first round of the survey was opened for approximately 5 weeks in July to August 2023, and the second round was opened for 2 weeks in September 2023. The mean food environment score, minimum and maximum awarded food environment score, and SD for each outlet type, and coefficient of variation was calculated after each survey round to provide a measure of the spread of the data around the mean and the degree of consistency in the distribution of responses. Following the second survey round, results were assessed for consensus among the participants.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Fifty-four participants completed the round one survey, and n=14 completed round two. The majority of online food delivery outlet types received a food environment score of less than +5, and were considered ‘less healthful.’ Participants scored greengrocers as the most healthful outlet type (mean food environment score of 8.83 ± 0.37) and liquor selling stores as the least healthful (score of −8.10 ± 1.14). The group reached consensus after two survey rounds due to decreases in the standard deviations of mean food environment scores.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;This study provides an expert-informed tool, the DIGIASSESS tool, that can be easily applied by researchers, policy makers, health workers and public health professionals to understand the rapidly evolving online food delivery environment, including changes over time and areas for potential intervention.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Rebecca Bennett, 
+Christina Zorbas, 
+Laura Alston, 
+Cindy Needham
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Creating a food environment scoring index for online food delivery outlets: Delphi study with Australian nutrition and public health professionals</dc:title>
+         <dc:identifier>10.1111/1747-0080.12919</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.12919</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12919?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+         <prism:volume>82</prism:volume>
+         <prism:number>3</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70018?af=R</link>
+         <pubDate>Tue, 20 May 2025 01:58:50 -0700</pubDate>
+         <dc:date>2025-05-20T01:58:50-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70018</guid>
+         <title>Research roadmap for ultra‐processed foods in the context of the Australian food system</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aims
+To identify research priorities for ultra‐processed foods in the context of the Australian food system.
+
+
+Methods
+Australian experts from academia, government and non‐governmental organisations were invited to participate in an online survey in February–March 2024. Participants were asked about research priorities to advance the science, policy and practice and political commitment for ultra‐processed foods in the context of the Australian food system. Responses posed by participants were categorised using the High Level Panel of Experts on food systems conceptual framework.
+
+
+Results
+A total of 27 participants contributed to the survey, most of whom worked in academia and had over 10 years' experience in the field. Research priorities to advance ultra‐processed food science included evaluating systemic drivers, externalities and alternative systems; and developing tools to measure and monitor ultra‐processed food systems and their impacts. Research priorities for policy and practice included ways to develop, implement and monitor synergistic actions to control ultra‐processed food impacts, including in novel regulatory mechanisms and monitoring systems; translating ultra‐processed foods evidence into dietary guidance; and quantifying healthcare system impacts. Research priorities to advance political commitment on ultra‐processed foods included understanding how governance structures enable and sustain ultra‐processed food dominance; mapping related lobbying and political donations; and countering industry rhetoric and misinformation.
+
+
+Conclusions
+A survey of Australian experts supported the development of a research roadmap for the concept of ultra‐processed foods in the context of the Australian food system. This roadmap serves as a foundation for advancing future ultra‐processed foods research, policy and practice in Australia.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;To identify research priorities for ultra-processed foods in the context of the Australian food system.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Australian experts from academia, government and non-governmental organisations were invited to participate in an online survey in February–March 2024. Participants were asked about research priorities to advance the science, policy and practice and political commitment for ultra-processed foods in the context of the Australian food system. Responses posed by participants were categorised using the High Level Panel of Experts on food systems conceptual framework.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;A total of 27 participants contributed to the survey, most of whom worked in academia and had over 10 years' experience in the field. Research priorities to advance ultra-processed food &lt;i&gt;science&lt;/i&gt; included evaluating systemic drivers, externalities and alternative systems; and developing tools to measure and monitor ultra-processed food systems and their impacts. Research priorities for &lt;i&gt;policy and practice&lt;/i&gt; included ways to develop, implement and monitor synergistic actions to control ultra-processed food impacts, including in novel regulatory mechanisms and monitoring systems; translating ultra-processed foods evidence into dietary guidance; and quantifying healthcare system impacts. Research priorities to advance &lt;i&gt;political commitment&lt;/i&gt; on ultra-processed foods included understanding how governance structures enable and sustain ultra-processed food dominance; mapping related lobbying and political donations; and countering industry rhetoric and misinformation.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;A survey of Australian experts supported the development of a research roadmap for the concept of ultra-processed foods in the context of the Australian food system. This roadmap serves as a foundation for advancing future ultra-processed foods research, policy and practice in Australia.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Priscila Machado, 
+Cherie Russell, 
+Patricia Ribeiro de Melo, 
+Phillip Baker, 
+Mark Lawrence
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Research roadmap for ultra‐processed foods in the context of the Australian food system</dc:title>
+         <dc:identifier>10.1111/1747-0080.70018</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70018</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70018?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70019?af=R</link>
+         <pubDate>Tue, 20 May 2025 01:54:54 -0700</pubDate>
+         <dc:date>2025-05-20T01:54:54-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70019</guid>
+         <title>Nutritional risk score predicts the length of stay in patients undergoing coronary angiography</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aim
+Nutritional status is a factor that impacts the clinical outcomes of various medical conditions, including cardiovascular disease and surgical procedures; however, little is known about its role in percutaneous procedures. This study aimed to assess the association between nutritional status and risk in patients undergoing coronary angiography and in‐hospital mortality and length of stay to improve risk stratification and peri‐procedural care.
+
+
+Methods
+Patients who underwent coronary angiography between January 2022 and August 2023. Nutritional status was assessed with body mass index, and nutritional risk was assessed with the Nutritional Risk Screening 2002 score. Multivariate regression models assessed independent predictors of in‐hospital mortality, adjusting for age, sex, coronary event, Canadian Cardiovascular Society class, and cardiac arrest at admission. Subgroup analyses were performed based on coronary event type to evaluate whether the associations differed across clinical presentations.
+
+
+Results
+Patients who underwent angiography (n = 1343) were aged 69.2 ± 11.1 years, 51% male, and 49% had acute coronary syndrome. The mean length of stay at the hospital was 4.5 ± 4.8 days; 38% of patients stayed ≥5 days. The in‐hospital mortality rate was 1.3%. Regression analyses revealed that the Nutritional Risk Screening 2002 score independently predicted the length of stay (β = 0.63, p = 0.002), and this relationship was strongest in the non‐ST segment elevation myocardial infarction subgroup (β = 1.26, p = 0.02). Body mass index did not predict the length of stay. There was no significant relationship between in‐hospital mortality and body mass index or the Nutritional Risk Screening 2002 score.
+
+
+Conclusion
+Nutritional risk significantly predicts the length of stay after coronary angiography, independent of age, sex, and coronary event type. Clinicians should consider routine nutritional risk assessment preceding coronary angiography to help individualise post‐procedure, in‐hospital care.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;Nutritional status is a factor that impacts the clinical outcomes of various medical conditions, including cardiovascular disease and surgical procedures; however, little is known about its role in percutaneous procedures. This study aimed to assess the association between nutritional status and risk in patients undergoing coronary angiography and in-hospital mortality and length of stay to improve risk stratification and peri-procedural care.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Patients who underwent coronary angiography between January 2022 and August 2023. Nutritional status was assessed with body mass index, and nutritional risk was assessed with the Nutritional Risk Screening 2002 score. Multivariate regression models assessed independent predictors of in-hospital mortality, adjusting for age, sex, coronary event, Canadian Cardiovascular Society class, and cardiac arrest at admission. Subgroup analyses were performed based on coronary event type to evaluate whether the associations differed across clinical presentations.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Patients who underwent angiography (&lt;i&gt;n&lt;/i&gt; = 1343) were aged 69.2 ± 11.1 years, 51% male, and 49% had acute coronary syndrome. The mean length of stay at the hospital was 4.5 ± 4.8 days; 38% of patients stayed ≥5 days. The in-hospital mortality rate was 1.3%. Regression analyses revealed that the Nutritional Risk Screening 2002 score independently predicted the length of stay (&lt;i&gt;β&lt;/i&gt; = 0.63, &lt;i&gt;p&lt;/i&gt; = 0.002), and this relationship was strongest in the non-ST segment elevation myocardial infarction subgroup (&lt;i&gt;β&lt;/i&gt; = 1.26, &lt;i&gt;p&lt;/i&gt; = 0.02). Body mass index did not predict the length of stay. There was no significant relationship between in-hospital mortality and body mass index or the Nutritional Risk Screening 2002 score.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Nutritional risk significantly predicts the length of stay after coronary angiography, independent of age, sex, and coronary event type. Clinicians should consider routine nutritional risk assessment preceding coronary angiography to help individualise post-procedure, in-hospital care.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Joanna Popiolek‐Kalisz, 
+Matthew Hollings, 
+Piotr Blaszczak
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Nutritional risk score predicts the length of stay in patients undergoing coronary angiography</dc:title>
+         <dc:identifier>10.1111/1747-0080.70019</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70019</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70019?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70020?af=R</link>
+         <pubDate>Tue, 20 May 2025 01:49:37 -0700</pubDate>
+         <dc:date>2025-05-20T01:49:37-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70020</guid>
+         <title>‘Our training didn't prepare us for private practice’: A multi‐method study of dietetics graduates' preparedness for private practice employment</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aim
+This multi‐method study explored dietetics graduates' preparedness for the landscape of private practice employment.
+
+
+Methods
+Qualitative, in‐depth interview and audio‐diary data were collected longitudinally in 2019 regarding dietetics graduates' experiences of private practice employability. Framework analysis of qualitative data prompted a quantitative survey of university representatives in 2021–2022 on the use of private practice placements. Survey data were analysed descriptively. Qualitative themes were reviewed alongside quantitative findings and were interpreted in the context of the sociocultural theory, landscapes of practice.
+
+
+Results
+Qualitative data from nine dietetics graduates (total 12 hours of audio data) indicated unpreparedness for this setting, with the following themes identified: 1) private practice skills were lacking; 2) making a living from private practice was challenging; and 3) support was needed. Quantitative data from 18 program directors of accredited universities (100% response) illustrated that private practice placement experiences varied from &lt;10 to 40 days. Placements were most commonly elective (44%) and were not offered by four programs (22%). University program directors expressed concerns that private practice placements were challenging to organise and offered limited client contact hours.
+
+
+Conclusions
+It is an educational priority to prepare graduates for available employment opportunities by providing learning experiences that traverse the dietetics landscape of practice. Co‐designing placements with private practice business owners may support authentic experiences of appropriate durations, with ample opportunities for students to build skills to enhance preparedness for this growing employment setting.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;This multi-method study explored dietetics graduates' preparedness for the landscape of private practice employment.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Qualitative, in-depth interview and audio-diary data were collected longitudinally in 2019 regarding dietetics graduates' experiences of private practice employability. Framework analysis of qualitative data prompted a quantitative survey of university representatives in 2021–2022 on the use of private practice placements. Survey data were analysed descriptively. Qualitative themes were reviewed alongside quantitative findings and were interpreted in the context of the sociocultural theory, &lt;i&gt;landscapes of practice&lt;/i&gt;.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Qualitative data from nine dietetics graduates (total 12 hours of audio data) indicated unpreparedness for this setting, with the following themes identified: 1) private practice skills were lacking; 2) making a living from private practice was challenging; and 3) support was needed. Quantitative data from 18 program directors of accredited universities (100% response) illustrated that private practice placement experiences varied from &amp;lt;10 to 40 days. Placements were most commonly elective (44%) and were not offered by four programs (22%). University program directors expressed concerns that private practice placements were challenging to organise and offered limited client contact hours.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;It is an educational priority to prepare graduates for available employment opportunities by providing learning experiences that traverse the dietetics landscape of practice. Co-designing placements with private practice business owners may support authentic experiences of appropriate durations, with ample opportunities for students to build skills to enhance preparedness for this growing employment setting.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Merran Blair, 
+Charlotte E. Rees, 
+Simone Gibson, 
+Lana J. Mitchell, 
+Ella Ottrey, 
+Lynn V. Monrouxe, 
+Claire Palermo
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>‘Our training didn't prepare us for private practice’: A multi‐method study of dietetics graduates' preparedness for private practice employment</dc:title>
+         <dc:identifier>10.1111/1747-0080.70020</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70020</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70020?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70011?af=R</link>
+         <pubDate>Mon, 07 Apr 2025 01:56:15 -0700</pubDate>
+         <dc:date>2025-04-07T01:56:15-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70011</guid>
+         <title>Dietary and physical activity habits of adults with inflammatory bowel disease in Aotearoa, New Zealand: A cross‐sectional study</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aims
+To describe (1) dietary intake, food avoidance and adequacy, and (2) physical activity levels and barriers among New Zealand adults with inflammatory bowel disease.
+
+
+Methods
+A cross‐sectional online survey comprising four questionnaires collecting data on demographics, disease activity index, dietary intake and physical activity levels was distributed. Exclusion criteria applied to those who were pregnant/lactating, with a stoma or pouch, or on enteral/parenteral nutrition. Descriptive analyses were performed, and dietary intakes were compared to established references. T‐tests, equality‐of‐medians tests and two‐sample proportion tests investigated differences between disease types.
+
+
+Results
+Two hundred and thirteen adults with mostly quiescent or mildly active inflammatory bowel disease (53% Crohn's disease) completed at least one questionnaire. Participants were predominantly female (70%), New Zealand European (89%) with a median age of 37 years. Discretionary food intake was high, while fruit and vegetable consumption was generally suboptimal. Food avoidances were reported by 69% of participants, primarily dairy and vegetables. A higher proportion of participants with ulcerative colitis or inflammatory bowel disease‐unspecified avoided gluten and unprocessed red meat. Inadequate intakes of calcium (69%), selenium (40%) and magnesium (26%) were common. Most participants limited vigorous physical activity, but 67% met the physical activity guidelines. Barriers to physical activity were reported by 63% of participants, where fatigue (54%) and abdominal cramps (26%) were common barriers.
+
+
+Conclusion
+Our findings demonstrate that New Zealand adults with inflammatory bowel disease had inadequate dietary intake and faced several barriers to physical activity, even when in remission.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;To describe (1) dietary intake, food avoidance and adequacy, and (2) physical activity levels and barriers among New Zealand adults with inflammatory bowel disease.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;A cross-sectional online survey comprising four questionnaires collecting data on demographics, disease activity index, dietary intake and physical activity levels was distributed. Exclusion criteria applied to those who were pregnant/lactating, with a stoma or pouch, or on enteral/parenteral nutrition. Descriptive analyses were performed, and dietary intakes were compared to established references. &lt;i&gt;T&lt;/i&gt;-tests, equality-of-medians tests and two-sample proportion tests investigated differences between disease types.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Two hundred and thirteen adults with mostly quiescent or mildly active inflammatory bowel disease (53% Crohn's disease) completed at least one questionnaire. Participants were predominantly female (70%), New Zealand European (89%) with a median age of 37 years. Discretionary food intake was high, while fruit and vegetable consumption was generally suboptimal. Food avoidances were reported by 69% of participants, primarily dairy and vegetables. A higher proportion of participants with ulcerative colitis or inflammatory bowel disease-unspecified avoided gluten and unprocessed red meat. Inadequate intakes of calcium (69%), selenium (40%) and magnesium (26%) were common. Most participants limited vigorous physical activity, but 67% met the physical activity guidelines. Barriers to physical activity were reported by 63% of participants, where fatigue (54%) and abdominal cramps (26%) were common barriers.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Our findings demonstrate that New Zealand adults with inflammatory bowel disease had inadequate dietary intake and faced several barriers to physical activity, even when in remission.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Jia Min Yap, 
+Catherine L. Wall, 
+Kim Meredith‐Jones, 
+Ella Iosua, 
+Hamish Osborne, 
+Michael Schultz
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Dietary and physical activity habits of adults with inflammatory bowel disease in Aotearoa, New Zealand: A cross‐sectional study</dc:title>
+         <dc:identifier>10.1111/1747-0080.70011</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70011</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70011?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70005?af=R</link>
+         <pubDate>Mon, 07 Apr 2025 01:50:11 -0700</pubDate>
+         <dc:date>2025-04-07T01:50:11-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70005</guid>
+         <title>Exploring and understanding perceptions and definitions of foodservice quality in residential aged care: A scoping review</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aim
+Identify and describe research that explores interest‐holder perceptions and definitions of foodservice quality in residential aged care.
+
+
+Methods
+This review follows the Joanna Briggs Institute methodological framework for conducting scoping reviews and was reported using the Preferred Reporting Items for Systematic Reviews and Meta‐Analyses extension for Scoping Reviews checklist. PubMed, Embase, CINAHL, and Scopus were used to search for peer‐reviewed literature. Grey literature was searched through Google and six Australian government sources. No restrictions were applied to methodology, year, or geographical location published. Findings were synthesised into distinct interest‐holder and foodservice component groups using meta‐synthesis.
+
+
+Results
+A total of 31 eligible texts, including peer‐reviewed (n = 17) and grey literature (n = 14) were included in this review. Texts identifying perceptions (n = 23) were predominantly those of residents (n = 11) while definitions of quality (n = 13) were all described by researchers and experts. Despite some agreement that foodservice quality is associated with how acceptable food or meals are to residents, there is a lack of consensus on what defines quality, with none of the literature addressing quality across the whole foodservice system.
+
+
+Conclusion
+Published research and reports that examine the perspectives of interest‐holders in residential aged care provided no consensus on definitions or clear sets of indicators defining foodservice quality. Further research is required to understand the perceptions of foodservice quality in order to guide the development and implementation of specific measures to support assessment and evaluation.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;Identify and describe research that explores interest-holder perceptions and definitions of foodservice quality in residential aged care.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;This review follows the Joanna Briggs Institute methodological framework for conducting scoping reviews and was reported using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews checklist. PubMed, Embase, CINAHL, and Scopus were used to search for peer-reviewed literature. Grey literature was searched through Google and six Australian government sources. No restrictions were applied to methodology, year, or geographical location published. Findings were synthesised into distinct interest-holder and foodservice component groups using meta-synthesis.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;A total of 31 eligible texts, including peer-reviewed (&lt;i&gt;n&lt;/i&gt; = 17) and grey literature (&lt;i&gt;n&lt;/i&gt; = 14) were included in this review. Texts identifying perceptions (&lt;i&gt;n&lt;/i&gt; = 23) were predominantly those of residents (&lt;i&gt;n&lt;/i&gt; = 11) while definitions of quality (&lt;i&gt;n&lt;/i&gt; = 13) were all described by researchers and experts. Despite some agreement that foodservice quality is associated with how acceptable food or meals are to residents, there is a lack of consensus on what defines quality, with none of the literature addressing quality across the whole foodservice system.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Published research and reports that examine the perspectives of interest-holders in residential aged care provided no consensus on definitions or clear sets of indicators defining foodservice quality. Further research is required to understand the perceptions of foodservice quality in order to guide the development and implementation of specific measures to support assessment and evaluation.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Jessica Zilujko, 
+Karen Abbey, 
+Sandra Capra
+</dc:creator>
+         <category>REVIEW</category>
+         <dc:title>Exploring and understanding perceptions and definitions of foodservice quality in residential aged care: A scoping review</dc:title>
+         <dc:identifier>10.1111/1747-0080.70005</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70005</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70005?af=R</prism:url>
+         <prism:section>REVIEW</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70013?af=R</link>
+         <pubDate>Thu, 03 Apr 2025 01:22:51 -0700</pubDate>
+         <dc:date>2025-04-03T01:22:51-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70013</guid>
+         <title>Quantifying and describing production waste in two urban healthcare centres with differing foodservice models</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aim
+To quantify, describe, and compare production waste and food packaging waste in two healthcare centres with different foodservice models.
+
+
+Methods
+In this observational study, all food wasted during production and all food packaging was measured by weight and cost over a 7‐day period for two hospitals: Hospital A (800 beds, cook‐on demand fresh, a la carte menu room service model) and Hospital B (60 beds, traditional cook chill retherm model with weekly cyclical menu and set meal times). Comparisons between sites were made per patient overnight bed day, as an indicator of hospital activity. The average daily waste was calculated, and costed by multiplying cost (AU$) food item/ kilogram by measured weight; to derive the cost of food waste per kilogram. Food waste by weight and cost per overnight bed day was used as a measure to compare the hospitals.
+
+
+Results
+Over 7 days, Hospital A wasted 916.4 kg (AU$6937.22) and Hospital B wasted 69.7 kg (AU$417.10) of food. Most food wasted at both hospitals was edible (78.6% Hospital A and 93.5% Hospital B) and trayline contributed more food waste than bulk production. At both hospitals, plant‐based foods comprised the greatest proportion of edible food waste by weight, but not by cost. When accounting for hospital activity, food waste was lower at Hospital A than at Hospital B (0.15 kg of food per overnight bed day and 0.30 kg, respectively). Hospital A generated 199.5 kg (0.03 kg per overnight bed day) of packaging waste compared to 32.2 kg (0.14 kg per overnight bed day) at Hospital B.
+
+
+Conclusion
+Findings suggest that food waste is costly, that food waste differs between hospitals with different foodservice models, and that overnight bed days is a useful metric for making comparisons. A cook‐fresh, on‐demand room service foodservice model resulted in less food and packaging waste.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;To quantify, describe, and compare production waste and food packaging waste in two healthcare centres with different foodservice models.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;In this observational study, all food wasted during production and all food packaging was measured by weight and cost over a 7-day period for two hospitals: Hospital A (800 beds, cook-on demand fresh, a la carte menu room service model) and Hospital B (60 beds, traditional cook chill retherm model with weekly cyclical menu and set meal times). Comparisons between sites were made per patient overnight bed day, as an indicator of hospital activity. The average daily waste was calculated, and costed by multiplying cost (AU$) food item/ kilogram by measured weight; to derive the cost of food waste per kilogram. Food waste by weight and cost per overnight bed day was used as a measure to compare the hospitals.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Over 7 days, Hospital A wasted 916.4 kg (AU$6937.22) and Hospital B wasted 69.7 kg (AU$417.10) of food. Most food wasted at both hospitals was edible (78.6% Hospital A and 93.5% Hospital B) and trayline contributed more food waste than bulk production. At both hospitals, plant-based foods comprised the greatest proportion of edible food waste by weight, but not by cost. When accounting for hospital activity, food waste was lower at Hospital A than at Hospital B (0.15 kg of food per overnight bed day and 0.30 kg, respectively). Hospital A generated 199.5 kg (0.03 kg per overnight bed day) of packaging waste compared to 32.2 kg (0.14 kg per overnight bed day) at Hospital B.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Findings suggest that food waste is costly, that food waste differs between hospitals with different foodservice models, and that overnight bed days is a useful metric for making comparisons. A cook-fresh, on-demand room service foodservice model resulted in less food and packaging waste.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Nathan Cook, 
+Joanna Habel, 
+Sally McCray, 
+Jennifer Utter, 
+Kaitlin Brennan
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Quantifying and describing production waste in two urban healthcare centres with differing foodservice models</dc:title>
+         <dc:identifier>10.1111/1747-0080.70013</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70013</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70013?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70010?af=R</link>
+         <pubDate>Wed, 26 Mar 2025 22:49:40 -0700</pubDate>
+         <dc:date>2025-03-26T10:49:40-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70010</guid>
+         <title>Home parenteral nutrition under an activity based funding model—An Australian costing study</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aim
+There is limited understanding about the cost of managing individuals requiring home parenteral nutrition within an outpatient setting. This study aimed to quantify healthcare costs of managing home parenteral nutrition (at‐home and within the multidisciplinary outpatient clinic setting) and compare incurred costs against an activity‐based funding model.
+
+
+Methods
+A 12‐month retrospective study compared parenteral nutrition at‐home costs and outpatient clinic costs to funding reimbursement. Costing data were retrieved from electronic medical records and monthly hospital finance reports for 28 individuals that required home parenteral nutrition at a quaternary hospital in Sydney, Australia. Hospital remuneration was calculated. Data are presented as median and range.
+
+
+Results
+Individuals on home parenteral nutrition attended a median (range) of 4 (3–7) multidisciplinary outpatient appointments over the year, where one outpatient appointment cost AU$294.51, less than the reimbursement of AU$366.37 based on the funding model allowing for medical billing; and AU$560.55 for activity‐based funding where additional loading was added for multidisciplinary input. The median at‐home costs per individual per month were AU$6949.86 (AU$2951.64 to AU$15015.77), compared to the funding model reimbursement of AU$7374.64 per individual per month.
+
+
+Conclusions
+The current healthcare funding model sufficiently covers home parenteral nutrition multidisciplinary outpatient service costs as well as at‐home costs within this single‐site study. This is likely due to the routine use of ready‐to‐hang 3‐in‐1 parenteral nutrition solutions. Further multicentre research is needed to better understand funding, corroborate the findings of this study, and inform future funding revisions.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;There is limited understanding about the cost of managing individuals requiring home parenteral nutrition within an outpatient setting. This study aimed to quantify healthcare costs of managing home parenteral nutrition (at-home and within the multidisciplinary outpatient clinic setting) and compare incurred costs against an activity-based funding model.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;A 12-month retrospective study compared parenteral nutrition at-home costs and outpatient clinic costs to funding reimbursement. Costing data were retrieved from electronic medical records and monthly hospital finance reports for 28 individuals that required home parenteral nutrition at a quaternary hospital in Sydney, Australia. Hospital remuneration was calculated. Data are presented as median and range.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Individuals on home parenteral nutrition attended a median (range) of 4 (3–7) multidisciplinary outpatient appointments over the year, where one outpatient appointment cost AU$294.51, less than the reimbursement of AU$366.37 based on the funding model allowing for medical billing; and AU$560.55 for activity-based funding where additional loading was added for multidisciplinary input. The median at-home costs per individual per month were AU$6949.86 (AU$2951.64 to AU$15015.77), compared to the funding model reimbursement of AU$7374.64 per individual per month.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;The current healthcare funding model sufficiently covers home parenteral nutrition multidisciplinary outpatient service costs as well as at-home costs within this single-site study. This is likely due to the routine use of ready-to-hang 3-in-1 parenteral nutrition solutions. Further multicentre research is needed to better understand funding, corroborate the findings of this study, and inform future funding revisions.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Sharon Carey, 
+Rena H. M. Cao, 
+Dayna Moore, 
+Michelle Cunich
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Home parenteral nutrition under an activity based funding model—An Australian costing study</dc:title>
+         <dc:identifier>10.1111/1747-0080.70010</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70010</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70010?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70004?af=R</link>
+         <pubDate>Tue, 18 Mar 2025 21:50:25 -0700</pubDate>
+         <dc:date>2025-03-18T09:50:25-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70004</guid>
+         <title>Factors influencing the incorporation of Entrustable Professional Activities into assessment in nutrition and dietetics education: A systematic review</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aims
+This study aimed to identify and synthesise the evidence on factors influencing the incorporation of Entrustable Professional Activities into assessment in nutrition and dietetics education.
+
+
+Methods
+A systematic review was conducted with a narrative synthesis and was undertaken and reported in accordance with the PRISMA guidelines. Six electronic databases were searched (MEDLINE, CINAHL, SCOPUS, PsycINFO, Web of Science, and EMBASE) on 9 September 2024. Methodological quality was assessed using the Critical Appraisal Skills Program checklists. Key patterns identified from the narrative synthesis of the included manuscripts were labelled as themes and represented in a figure.
+
+
+Results
+Across the international literature, six articles were identified revealing six main and interconnected themes related to factors influencing the incorporation of Entrustable Professional Activities in nutrition and dietetics. In summary, development and review processes for Entrustable Professional Activities require key stakeholder engagement in addition to ensuring they are linked to assessment structures and existing frameworks. Furthermore, technology platforms and applications appeared to support Entrustable Professional Activity incorporation, and training is an important part of integration.
+
+
+Conclusions
+Further research on factors influencing incorporation is occurring and is suggested to continue, especially given Entrustable Professional Activities seemingly offer a tangible option to simplify the intricacy of competency‐based assessment in work‐based practice. However, further research to enhance understanding of whether Entrustable Professional Activities support nutrition and dietetics learners and assessors in undertaking high‐quality assessment with utility is warranted.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;This study aimed to identify and synthesise the evidence on factors influencing the incorporation of Entrustable Professional Activities into assessment in nutrition and dietetics education.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;A systematic review was conducted with a narrative synthesis and was undertaken and reported in accordance with the PRISMA guidelines. Six electronic databases were searched (MEDLINE, CINAHL, SCOPUS, PsycINFO, Web of Science, and EMBASE) on 9 September 2024. Methodological quality was assessed using the Critical Appraisal Skills Program checklists. Key patterns identified from the narrative synthesis of the included manuscripts were labelled as themes and represented in a figure.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Across the international literature, six articles were identified revealing six main and interconnected themes related to factors influencing the incorporation of Entrustable Professional Activities in nutrition and dietetics. In summary, development and review processes for Entrustable Professional Activities require key stakeholder engagement in addition to ensuring they are linked to assessment structures and existing frameworks. Furthermore, technology platforms and applications appeared to support Entrustable Professional Activity incorporation, and training is an important part of integration.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Further research on factors influencing incorporation is occurring and is suggested to continue, especially given Entrustable Professional Activities seemingly offer a tangible option to simplify the intricacy of competency-based assessment in work-based practice. However, further research to enhance understanding of whether Entrustable Professional Activities support nutrition and dietetics learners and assessors in undertaking high-quality assessment with utility is warranted.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Ryan Surace, 
+Claire Palermo, 
+Judi Porter
+</dc:creator>
+         <category>REVIEW</category>
+         <dc:title>Factors influencing the incorporation of Entrustable Professional Activities into assessment in nutrition and dietetics education: A systematic review</dc:title>
+         <dc:identifier>10.1111/1747-0080.70004</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70004</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70004?af=R</prism:url>
+         <prism:section>REVIEW</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70006?af=R</link>
+         <pubDate>Tue, 18 Mar 2025 00:40:21 -0700</pubDate>
+         <dc:date>2025-03-18T12:40:21-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70006</guid>
+         <title>Nutrient intake in adult haemodialysis patients and influence of dialysis treatment day and patient age</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aim
+This study aimed to evaluate the variation in food intake during dialysis and non‐dialysis days and to assess the nutritional status of elderly haemodialysis patients.
+
+
+Methods
+An observational multicentre cross‐sectional study was conducted. A total of 311 patients aged ≥18 years were recruited. Multiple 24‐h recalls were collected, appetite levels were assessed through self‐reporting, and biochemical and anthropometric data were obtained. Data were collected via a face‐to‐face interview during haemodialysis sessions at four major dialysis centres.
+
+
+Results
+The findings of this study revealed higher consumption of sodium (2570.25 ± 74.15 vs. 2106.25 ± 77.39, p‐value &lt; 0.001) and potassium (1456.59 ± 47.42 vs. 1137.41 ± 35.40, p‐value &lt; 0.001) on dialysis days compared to non‐dialysis days. Superior appetite levels were significantly associated with higher protein and energy intake and better serum albumin levels on days with versus without dialysis. Patients who reported a better understanding of the importance of their dietary recommendations had lower consumption of sodium, phosphorus, and potassium. Further, patients aged ≥60 years had significantly lower albumin levels and consumed considerably lower levels of protein and sodium but had higher body mass index and waist circumference compared to young patients.
+
+
+Conclusions
+Dialysis treatment schedules could affect nutrient intake and compliance rates with renal guidelines; thus, nutritional education must be performed individually to eliminate barriers to adherence. Elderly haemodialysis patients might be prone to a high risk of nutritional deficiencies and require special continuous and in‐depth dietary provisions.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;This study aimed to evaluate the variation in food intake during dialysis and non-dialysis days and to assess the nutritional status of elderly haemodialysis patients.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;An observational multicentre cross-sectional study was conducted. A total of 311 patients aged ≥18 years were recruited. Multiple 24-h recalls were collected, appetite levels were assessed through self-reporting, and biochemical and anthropometric data were obtained. Data were collected via a face-to-face interview during haemodialysis sessions at four major dialysis centres.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;The findings of this study revealed higher consumption of sodium (2570.25 ± 74.15 vs. 2106.25 ± 77.39, &lt;i&gt;p&lt;/i&gt;-value &amp;lt; 0.001) and potassium (1456.59 ± 47.42 vs. 1137.41 ± 35.40, &lt;i&gt;p&lt;/i&gt;-value &amp;lt; 0.001) on dialysis days compared to non-dialysis days. Superior appetite levels were significantly associated with higher protein and energy intake and better serum albumin levels on days with versus without dialysis. Patients who reported a better understanding of the importance of their dietary recommendations had lower consumption of sodium, phosphorus, and potassium. Further, patients aged ≥60 years had significantly lower albumin levels and consumed considerably lower levels of protein and sodium but had higher body mass index and waist circumference compared to young patients.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Dialysis treatment schedules could affect nutrient intake and compliance rates with renal guidelines; thus, nutritional education must be performed individually to eliminate barriers to adherence. Elderly haemodialysis patients might be prone to a high risk of nutritional deficiencies and require special continuous and in-depth dietary provisions.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Shatha S. Hammad, 
+Dima Farrah, 
+Randa I. Farah, 
+Aya Awwad
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Nutrient intake in adult haemodialysis patients and influence of dialysis treatment day and patient age</dc:title>
+         <dc:identifier>10.1111/1747-0080.70006</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70006</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70006?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70008?af=R</link>
+         <pubDate>Mon, 17 Mar 2025 01:56:55 -0700</pubDate>
+         <dc:date>2025-03-17T01:56:55-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70008</guid>
+         <title>Perioperative nutritional practices and associations with delayed gastric emptying in patients undergoing a pancreaticoduodenectomy: A retrospective observational study</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aims
+Delayed gastric emptying is a common complication of a pancreaticoduodenectomy and can adversely impact nutritional status, and potentially clinical outcomes due to delays in nutrition initiation post‐operatively. The aim of this study was to explore associations between delayed gastric emptying and patient baseline characteristics, early post‐operative nutritional status, post‐operative nutritional practices and clinical outcomes in a tertiary Australian hospital.
+
+
+Methods
+This was a retrospective, observational study of 80 consecutive patients who underwent a pancreaticoduodenectomy between January 2019 and June 2022. Delayed gastric emptying was classified according to the International Study Group of Pancreatic Surgery definition. Continuous variables were compared using the independent t test, and categorical variables were compared using chi‐squared or Fisher's exact test. Significant variables were included in a multivariable model.
+
+
+Results
+The incidence of delayed gastric emptying within this cohort was 45% (36/80) and was higher in males compared to females (p = 0.025). Early post‐operative nutritional status was not significantly associated with delayed gastric emptying (p = 0.124). Patients with delayed gastric emptying had a higher incidence of post‐operative pancreatic fistula (p = 0.03) and Clavien–Dindo complications ≥3 (p = 0.011). Delayed gastric emptying was associated with greater usage of enteral (p &lt; 0.001) and parenteral nutrition (p &lt; 0.001), a longer length of stay (p &lt; 0.001) and increased re‐admissions (p = 0.014). Male sex remained significantly associated with delayed gastric emptying following regression analysis.
+
+
+Conclusions
+Delayed gastric emptying rates were high, associated with greater use of artificial nutrition and worse outcomes in our patient population post‐operatively. Early post‐operative malnutrition was not significantly associated with delayed gastric emptying.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;Delayed gastric emptying is a common complication of a pancreaticoduodenectomy and can adversely impact nutritional status, and potentially clinical outcomes due to delays in nutrition initiation post-operatively. The aim of this study was to explore associations between delayed gastric emptying and patient baseline characteristics, early post-operative nutritional status, post-operative nutritional practices and clinical outcomes in a tertiary Australian hospital.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;This was a retrospective, observational study of 80 consecutive patients who underwent a pancreaticoduodenectomy between January 2019 and June 2022. Delayed gastric emptying was classified according to the International Study Group of Pancreatic Surgery definition. Continuous variables were compared using the independent &lt;i&gt;t&lt;/i&gt; test, and categorical variables were compared using chi-squared or Fisher's exact test. Significant variables were included in a multivariable model.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;The incidence of delayed gastric emptying within this cohort was 45% (36/80) and was higher in males compared to females (&lt;i&gt;p&lt;/i&gt; = 0.025). Early post-operative nutritional status was not significantly associated with delayed gastric emptying (&lt;i&gt;p&lt;/i&gt; = 0.124). Patients with delayed gastric emptying had a higher incidence of post-operative pancreatic fistula (&lt;i&gt;p&lt;/i&gt; = 0.03) and Clavien–Dindo complications ≥3 (&lt;i&gt;p&lt;/i&gt; = 0.011). Delayed gastric emptying was associated with greater usage of enteral (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001) and parenteral nutrition (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001), a longer length of stay (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001) and increased re-admissions (&lt;i&gt;p&lt;/i&gt; = 0.014). Male sex remained significantly associated with delayed gastric emptying following regression analysis.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Delayed gastric emptying rates were high, associated with greater use of artificial nutrition and worse outcomes in our patient population post-operatively. Early post-operative malnutrition was not significantly associated with delayed gastric emptying.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Mikeeley Hoch, 
+Ingrid Hickman, 
+Thomas O'Rourke, 
+Nick Butler, 
+Ra'eesa Doola
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Perioperative nutritional practices and associations with delayed gastric emptying in patients undergoing a pancreaticoduodenectomy: A retrospective observational study</dc:title>
+         <dc:identifier>10.1111/1747-0080.70008</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70008</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70008?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70007?af=R</link>
+         <pubDate>Mon, 17 Mar 2025 01:49:27 -0700</pubDate>
+         <dc:date>2025-03-17T01:49:27-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70007</guid>
+         <title>Energy and protein intake threshold modelling using nutrition dashboard technology and sensitivity of hospital malnutrition identification</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aims
+Hospital food provision/intake dashboards may improve malnutrition screening. The aim of this study was to use Nutrition Dashboard data to determine the optimal threshold for screening for malnutrition risk, and compare the accuracy of this method with estimated dietary requirements.
+
+
+Methods
+Observational data were extracted from medical files and food service records of 267 patients for a 4‐month period in a 99‐bed hospital. Energy (2500–8000 kJ) and protein (30–90 g) thresholds were applied for Nutrition Dashboard categorisation by supply and intake of food. Deficits in estimated requirements (105 kJ/kg/day and 0.75 g/kg/day) were also applied as a comparative method. The association between Nutrition Dashboard categories and the Malnutrition Screening Tool was explored using generalised estimating equations.
+
+
+Results
+A total of 267 patients and 1908 days of data were analysed. The use of estimated requirements for Nutrition Dashboard categorisation was not a statistically significant predictor of malnutrition risk. Application of energy (≤6000 kJ) and protein (≤65 g) thresholds for categorisation was significant (χ2 = 9.50, df = 3, p = 0.023). When 5000 kJ and 55 g of protein were used for categorisation, patients were more likely to be at malnutrition risk when within low supply (odds ratio = 2.11, p = 0.002) and low intake (odds ratio 2.23, p &lt; 0.001) categories.
+
+
+Conclusions
+Nutrition Dashboard categories are associated with an increased risk of malnutrition when categorised using thresholds of up to 6000 kJ and 65 g protein. Technologies like the Nutrition Dashboard present innovative opportunities for dietitians to utilise nutrition informatics to enhance and optimise nutrition care.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;Hospital food provision/intake dashboards may improve malnutrition screening. The aim of this study was to use Nutrition Dashboard data to determine the optimal threshold for screening for malnutrition risk, and compare the accuracy of this method with estimated dietary requirements.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Observational data were extracted from medical files and food service records of 267 patients for a 4-month period in a 99-bed hospital. Energy (2500–8000 kJ) and protein (30–90 g) thresholds were applied for Nutrition Dashboard categorisation by supply and intake of food. Deficits in estimated requirements (105 kJ/kg/day and 0.75 g/kg/day) were also applied as a comparative method. The association between Nutrition Dashboard categories and the Malnutrition Screening Tool was explored using generalised estimating equations.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;A total of 267 patients and 1908 days of data were analysed. The use of estimated requirements for Nutrition Dashboard categorisation was not a statistically significant predictor of malnutrition risk. Application of energy (≤6000 kJ) and protein (≤65 g) thresholds for categorisation was significant (&lt;i&gt;χ&lt;/i&gt;
+&lt;sup&gt;2&lt;/sup&gt; = 9.50, df = 3, &lt;i&gt;p&lt;/i&gt; = 0.023). When 5000 kJ and 55 g of protein were used for categorisation, patients were more likely to be at malnutrition risk when within low supply (odds ratio = 2.11, &lt;i&gt;p&lt;/i&gt; = 0.002) and low intake (odds ratio 2.23, &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001) categories.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Nutrition Dashboard categories are associated with an increased risk of malnutrition when categorised using thresholds of up to 6000 kJ and 65 g protein. Technologies like the Nutrition Dashboard present innovative opportunities for dietitians to utilise nutrition informatics to enhance and optimise nutrition care.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Erin Fisher, 
+Leanne Brown, 
+Kerith Duncanson
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Energy and protein intake threshold modelling using nutrition dashboard technology and sensitivity of hospital malnutrition identification</dc:title>
+         <dc:identifier>10.1111/1747-0080.70007</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70007</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70007?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70001?af=R</link>
+         <pubDate>Wed, 05 Mar 2025 18:59:28 -0800</pubDate>
+         <dc:date>2025-03-05T06:59:28-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70001</guid>
+         <title>Assessment practices for dietetic students: An updated systematic review (2017–2024)</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aim
+Evaluate assessment practices and outcomes for dietetic students and compare findings with those from a previous systematic review.
+
+
+Methods
+A systematic review was conducted whereby four databases (MEDLINE, Embase, Cumulative Index in Nursing and Allied Health Literature, and Education Resources Information Centre) were searched on 11 October 2023 with terms related to dietetics, students, and assessment. The search was repeated on 8 January 2025 to identify new publications. Eligibility criteria were primary research published after 1 June 2017 reporting at least one assessment method for dietetic students with an assessment‐related outcome. Assessment practices and outcomes were evaluated using Miller's Pyramid, the New World Kirkpatrick's Hierarchy, and the principles of programmatic assessment.
+
+
+Results
+From 5701 search results, 22 were identified, revealing new assessment practices, including entrustable professional activities, e‐portfolios, and programmatic assessment, localised to Australia and Singapore. Compared to publications prior to 2017, a greater proportion conceptualised assessment as part of a system (46% compared to 28%) with a sustained higher prevalence of does and shows levels of Miller's Pyramid. Evaluation continued to focus on reaction, learning, and behaviour.
+
+
+Conclusions
+Findings indicate a transition towards programmatic approaches to systems of assessment within dietetics, though this shift was not observed globally. Such a shift is crucial for ensuring the profession's agility in responding to modern disruptors and maintaining the delivery of high‐quality education.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;Evaluate assessment practices and outcomes for dietetic students and compare findings with those from a previous systematic review.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;A systematic review was conducted whereby four databases (MEDLINE, Embase, Cumulative Index in Nursing and Allied Health Literature, and Education Resources Information Centre) were searched on 11 October 2023 with terms related to dietetics, students, and assessment. The search was repeated on 8 January 2025 to identify new publications. Eligibility criteria were primary research published after 1 June 2017 reporting at least one assessment method for dietetic students with an assessment-related outcome. Assessment practices and outcomes were evaluated using Miller's Pyramid, the New World Kirkpatrick's Hierarchy, and the principles of programmatic assessment.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;From 5701 search results, 22 were identified, revealing new assessment practices, including entrustable professional activities, e-portfolios, and programmatic assessment, localised to Australia and Singapore. Compared to publications prior to 2017, a greater proportion conceptualised assessment as part of a system (46% compared to 28%) with a sustained higher prevalence of &lt;i&gt;does&lt;/i&gt; and &lt;i&gt;shows&lt;/i&gt; levels of Miller's Pyramid. Evaluation continued to focus on reaction, learning, and behaviour.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Findings indicate a transition towards programmatic approaches to systems of assessment within dietetics, though this shift was not observed globally. Such a shift is crucial for ensuring the profession's agility in responding to modern disruptors and maintaining the delivery of high-quality education.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Janica Jamieson, 
+Claire Palermo, 
+Margaret Hay, 
+Simone Gibson
+</dc:creator>
+         <category>REVIEW</category>
+         <dc:title>Assessment practices for dietetic students: An updated systematic review (2017–2024)</dc:title>
+         <dc:identifier>10.1111/1747-0080.70001</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70001</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70001?af=R</prism:url>
+         <prism:section>REVIEW</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70000?af=R</link>
+         <pubDate>Wed, 19 Feb 2025 20:53:37 -0800</pubDate>
+         <dc:date>2025-02-19T08:53:37-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.70000</guid>
+         <title>Feasibility of a targeted nutrition‐risk screening tool in Australian mental health services: The NutriMental screener</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aims
+This study aimed to test the feasibility and acceptability of mental health clinicians using a multifaceted nutrition‐risk screening tool in Australian mental health settings.
+
+
+Methods
+A mixed‐methods cross‐sectional design was used. Mental health clinicians implemented the multifaceted NutriMental screener at seven sites across Australia and provided feedback via a standardised form. Primary outcomes were the feasibility, acceptability and appropriateness domains of the feedback questionnaire. Additional outcomes included association/agreement between the consumer's desire for dietetic support, clinicians' impression of need for dietetic support, and total nutrition risks reported. Directed content analysis was employed to analyse open‐ended sections of the clinician feedback questionnaire.
+
+
+Results
+Fifty‐four clinicians participated, completing the NutriMental screener with a total of 256 mental health consumers. Mean total nutrition risks reported were 6.4 ± 1.8 (out of nine). Mean implementation outcomes (out of five) were 3.1 ± 0.8 for acceptability, 3.7 ± 0.5 for appropriateness, and 4.3 ± 1.7 for feasibility. There was moderate agreement between consumer's desire for dietetic support and clinicians' impression of need for dietetic support κ = 0.32 (95% CI: 0.21–0.43), p &lt; 0.001, and positive correlations between the number of nutrition risks reported and consumer's desire for dietetic support (r = 0.29, p &lt; 0.001) and clinicians' impression of need for dietetic support (r = 0.29, p &lt; 0.001). Six themes and 17 subthemes related to barriers and facilitators to the screener's implementation were identified.
+
+
+Conclusion
+The multifaceted risk screening tool appears to be feasible, acceptable and appropriate for use within Australian mental health services. Refinements of the NutriMental screener based on clinician feedback may further improve its implementation.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;This study aimed to test the feasibility and acceptability of mental health clinicians using a multifaceted nutrition-risk screening tool in Australian mental health settings.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;A mixed-methods cross-sectional design was used. Mental health clinicians implemented the multifaceted NutriMental screener at seven sites across Australia and provided feedback via a standardised form. Primary outcomes were the feasibility, acceptability and appropriateness domains of the feedback questionnaire. Additional outcomes included association/agreement between the consumer's desire for dietetic support, clinicians' impression of need for dietetic support, and total nutrition risks reported. Directed content analysis was employed to analyse open-ended sections of the clinician feedback questionnaire.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Fifty-four clinicians participated, completing the NutriMental screener with a total of 256 mental health consumers. Mean total nutrition risks reported were 6.4 ± 1.8 (out of nine). Mean implementation outcomes (out of five) were 3.1 ± 0.8 for acceptability, 3.7 ± 0.5 for appropriateness, and 4.3 ± 1.7 for feasibility. There was moderate agreement between consumer's desire for dietetic support and clinicians' impression of need for dietetic support &lt;i&gt;κ&lt;/i&gt; = 0.32 (95% CI: 0.21–0.43), &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001, and positive correlations between the number of nutrition risks reported and consumer's desire for dietetic support (&lt;i&gt;r&lt;/i&gt; = 0.29, &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001) and clinicians' impression of need for dietetic support (&lt;i&gt;r&lt;/i&gt; = 0.29, &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001). Six themes and 17 subthemes related to barriers and facilitators to the screener's implementation were identified.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;The multifaceted risk screening tool appears to be feasible, acceptable and appropriate for use within Australian mental health services. Refinements of the NutriMental screener based on clinician feedback may further improve its implementation.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Scott B. Teasdale, 
+Oliver Ardill‐Young, 
+Patricia Crawford, 
+Patrick Gould, 
+Erikka Hennessy, 
+Bronwyn Inall, 
+Sarah King, 
+Rebecca Lancaster, 
+Olivia Millett, 
+Abbey Pearson, 
+Julia Roen, 
+Alyssa Strong, 
+Mark Surdut, 
+Tracy Burrows, 
+Jackie Curtis, 
+Philip B. Ward, 
+Annabel Sandra Mueller‐Stierlin
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Feasibility of a targeted nutrition‐risk screening tool in Australian mental health services: The NutriMental screener</dc:title>
+         <dc:identifier>10.1111/1747-0080.70000</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.70000</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.70000?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12926?af=R</link>
+         <pubDate>Mon, 03 Feb 2025 22:29:55 -0800</pubDate>
+         <dc:date>2025-02-03T10:29:55-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.12926</guid>
+         <title>Global parent perspectives on school food service internationally: A mixed papers narrative review</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aims
+The views of parents/caregivers about food programs in schools internationally is not well understood. This review aimed to synthesise what parents/caregivers identify as the key features of school food programs and their perspectives of these programs globally.
+
+
+Methods
+A mixed papers review was undertaken with a systematic search (January 2024) and screening of three databases (Scopus, Web of Science, PubMed). Eligible studies captured parent/caregiver perspectives across all school food models. Study findings were extracted using Bayesian methods to translate quantitative findings into qualitative data. Data was deductively categorised to identify features of school food models, and separately themed to identify parent perspectives.
+
+
+Results
+Twenty‐six eligible studies were identified from 11 countries. Fifteen features were identified, including cost, time, effort and convenience, child preferences, nutrition, policy and messaging, eating environment and food education. Parent perspective themes were: child is the priority, lunchbox procurement, preparation and provision is challenging, school‐provided meals have strengths and limitations, and parents acknowledge they are central to feeding. An overarching theme was that compromises must be made to meet the needs of family members, when parents make decisions on school food.
+
+
+Conclusions
+This review found that globally parents perceive benefits and challenges to school food programs, regardless of provision model, with a range of features that influence parent acceptability. Considering parent/caregiver perspectives when developing or changing school food provision models is likely to increase caregiver acceptability, supporting children to engage with health promotion efforts.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;The views of parents/caregivers about food programs in schools internationally is not well understood. This review aimed to synthesise what parents/caregivers identify as the key features of school food programs and their perspectives of these programs globally.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;A mixed papers review was undertaken with a systematic search (January 2024) and screening of three databases (Scopus, Web of Science, PubMed). Eligible studies captured parent/caregiver perspectives across all school food models. Study findings were extracted using Bayesian methods to translate quantitative findings into qualitative data. Data was deductively categorised to identify features of school food models, and separately themed to identify parent perspectives.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Twenty-six eligible studies were identified from 11 countries. Fifteen features were identified, including cost, time, effort and convenience, child preferences, nutrition, policy and messaging, eating environment and food education. Parent perspective themes were: child is the priority, lunchbox procurement, preparation and provision is challenging, school-provided meals have strengths and limitations, and parents acknowledge they are central to feeding. An overarching theme was that compromises must be made to meet the needs of family members, when parents make decisions on school food.&lt;/p&gt;
+&lt;h2&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;This review found that globally parents perceive benefits and challenges to school food programs, regardless of provision model, with a range of features that influence parent acceptability. Considering parent/caregiver perspectives when developing or changing school food provision models is likely to increase caregiver acceptability, supporting children to engage with health promotion efforts.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Alexandra C. Manson, 
+Rebecca K. Golley, 
+Brittany J. Johnson
+</dc:creator>
+         <category>REVIEW</category>
+         <dc:title>Global parent perspectives on school food service internationally: A mixed papers narrative review</dc:title>
+         <dc:identifier>10.1111/1747-0080.12926</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.12926</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12926?af=R</prism:url>
+         <prism:section>REVIEW</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12922?af=R</link>
+         <pubDate>Sun, 02 Feb 2025 00:00:00 -0800</pubDate>
+         <dc:date>2025-02-02T12:00:00-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.12922</guid>
+         <title>Navigating challenges and adherence in time‐restricted eating: A qualitative study</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aims
+Adherence to any dietary approach is crucial for achieving long‐term benefits. This qualitative study aims to explore the facilitators and barriers to adherence, and how individuals in community settings navigate time‐restricted eating in their daily lives.
+
+
+Methods
+Semi‐structured, in‐depth interviews were conducted with 21 participants who had practised time‐restricted eating (confining the daily eating window to &lt;10h a day; and excluding periodic fasting methods like the 5:2 approach or alternate day fasting) for periods ranging from 3 months to more than 5 years. A qualitative content analysis, underpinned by the Capability‐Opportunity‐Motivation‐Behaviour Model, identified multiple facilitators, barriers, and strategies that evolved over the practice.
+
+
+Results
+Key facilitators included the simplicity and versatility of time‐restricted eating, maintaining a non‐obsessive and non‐dieting mindset, and having a supportive environment. Barriers included hunger and food cravings, an obsessive mindset during the initial stages, and conflicting schedules with social eating occasions, including holidays. Participants employed several coping strategies to successfully navigate adherence and reported confidence in maintaining time‐restricted eating as a lifestyle that contributes to better health and weight management.
+
+
+Conclusion
+Our findings suggest that successful implementation of time‐restricted eating in community settings requires flexibility and viewing it as more than a short‐term weight loss tool. Guidelines are needed to help individuals and practitioners implement better practices and promote healthier behaviours.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aims&lt;/h2&gt;
+&lt;p&gt;Adherence to any dietary approach is crucial for achieving long-term benefits. This qualitative study aims to explore the facilitators and barriers to adherence, and how individuals in community settings navigate time-restricted eating in their daily lives.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Semi-structured, in-depth interviews were conducted with 21 participants who had practised time-restricted eating (confining the daily eating window to &amp;lt;10h a day; and excluding periodic fasting methods like the 5:2 approach or alternate day fasting) for periods ranging from 3 months to more than 5 years. A qualitative content analysis, underpinned by the Capability-Opportunity-Motivation-Behaviour Model, identified multiple facilitators, barriers, and strategies that evolved over the practice.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;Key facilitators included the simplicity and versatility of time-restricted eating, maintaining a non-obsessive and non-dieting mindset, and having a supportive environment. Barriers included hunger and food cravings, an obsessive mindset during the initial stages, and conflicting schedules with social eating occasions, including holidays. Participants employed several coping strategies to successfully navigate adherence and reported confidence in maintaining time-restricted eating as a lifestyle that contributes to better health and weight management.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Our findings suggest that successful implementation of time-restricted eating in community settings requires flexibility and viewing it as more than a short-term weight loss tool. Guidelines are needed to help individuals and practitioners implement better practices and promote healthier behaviours.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Hilmi S. Rathomi, 
+Nahal Mavaddat, 
+Judith M. Katzenellenbogen, 
+Sandra C. Thompson
+</dc:creator>
+         <category>ORIGINAL RESEARCH</category>
+         <dc:title>Navigating challenges and adherence in time‐restricted eating: A qualitative study</dc:title>
+         <dc:identifier>10.1111/1747-0080.12922</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.12922</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12922?af=R</prism:url>
+         <prism:section>ORIGINAL RESEARCH</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12912?af=R</link>
+         <pubDate>Fri, 25 Oct 2024 02:40:14 -0700</pubDate>
+         <dc:date>2024-10-25T02:40:14-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/17470080?af=R">Wiley: Nutrition &amp; Dietetics: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/1747-0080.12912</guid>
+         <title>The effect of blended tube feeding compared to conventional formula on clinical outcomes in adults: A systematic review</title>
+         <description>Nutrition &amp;amp;Dietetics, EarlyView. </description>
+         <dc:description>
+Abstract
+
+Aim
+To explore the effect of blended tube feeding compared to conventional formulas on nutritional status, quality of life, anthropometry, diarrhoea and tube blockages in adults receiving tube feeding.
+
+
+Methods
+The protocol was registered (PROSPERO CRD42022372443). Five databases (MEDLINE, EMBASE, CINAHL, Scopus, CENTRAL) were searched from commencement of database to 14th June 2023 to identify studies comparing blended tube feeding to conventional formulas in adults receiving tube feeding. Certainty assessment was conducted using the Cochrane Risk of Bias Tools and the Grading of Recommendations, Assessment, Development and Evaluations framework, and a narrative synthesis of results is provided.
+
+
+Results
+From 4227 studies screened, eight were included (total n = 763 patients, 9–215 patients). Three studies were hospital‐based and five were home‐based with duration from 8 days–8 months. Blended tube feeding and conventional formulas were nutritionally equivalent in only three studies; energy and protein concentration of formulas ranged from 1.7–7.1 kJ/mL and 21–68.5 g/L for the blended tube feeding groups, and 4.2–6.7 kJ/mL and 39–100 g/L for the conventional groups. No studies assessed nutrition status or quality of life using validated measures. Blended tube feeding was associated with a clinically relevant reduction in diarrhoea with a low level of certainty. For remaining outcomes, there were inconclusive findings and an overall very low certainty of evidence for each.
+
+
+Conclusion
+The effect of blended tube feeding compared to conventional formulas on all outcomes remains uncertain. Blended tube feeding may reduce the incidence of diarrhoea. Future research using nutritionally equivalent comparisons and validated outcome measures is required.
+
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;h2&gt;Aim&lt;/h2&gt;
+&lt;p&gt;To explore the effect of blended tube feeding compared to conventional formulas on nutritional status, quality of life, anthropometry, diarrhoea and tube blockages in adults receiving tube feeding.&lt;/p&gt;
+&lt;h2&gt;Methods&lt;/h2&gt;
+&lt;p&gt;The protocol was registered (PROSPERO CRD42022372443). Five databases (MEDLINE, EMBASE, CINAHL, Scopus, CENTRAL) were searched from commencement of database to 14th June 2023 to identify studies comparing blended tube feeding to conventional formulas in adults receiving tube feeding. Certainty assessment was conducted using the Cochrane Risk of Bias Tools and the Grading of Recommendations, Assessment, Development and Evaluations framework, and a narrative synthesis of results is provided.&lt;/p&gt;
+&lt;h2&gt;Results&lt;/h2&gt;
+&lt;p&gt;From 4227 studies screened, eight were included (total &lt;i&gt;n&lt;/i&gt; = 763 patients, 9–215 patients). Three studies were hospital-based and five were home-based with duration from 8 days–8 months. Blended tube feeding and conventional formulas were nutritionally equivalent in only three studies; energy and protein concentration of formulas ranged from 1.7–7.1 kJ/mL and 21–68.5 g/L for the blended tube feeding groups, and 4.2–6.7 kJ/mL and 39–100 g/L for the conventional groups. No studies assessed nutrition status or quality of life using validated measures. Blended tube feeding was associated with a clinically relevant reduction in diarrhoea with a low level of certainty. For remaining outcomes, there were inconclusive findings and an overall very low certainty of evidence for each.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;The effect of blended tube feeding compared to conventional formulas on all outcomes remains uncertain. Blended tube feeding may reduce the incidence of diarrhoea. Future research using nutritionally equivalent comparisons and validated outcome measures is required.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Lina Breik, 
+Lisa Barker, 
+Judy Bauer, 
+Zoe E. Davidson
+</dc:creator>
+         <category>REVIEW</category>
+         <dc:title>The effect of blended tube feeding compared to conventional formula on clinical outcomes in adults: A systematic review</dc:title>
+         <dc:identifier>10.1111/1747-0080.12912</dc:identifier>
+         <prism:publicationName>Nutrition &amp; Dietetics</prism:publicationName>
+         <prism:doi>10.1111/1747-0080.12912</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/1747-0080.12912?af=R</prism:url>
+         <prism:section>REVIEW</prism:section>
+      </item>
+   </channel>
+</rss>

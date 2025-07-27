@@ -21,7 +21,7 @@ async def fetch_rss_feed(session, url, timeout=10):
     @return {str} RSS内容文本
     """
     try:
-        async with session.get(url, timeout=timeout) as response:
+        async with session.get(url, timeout=timeout, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36'}) as response:
             response.raise_for_status()
             return await response.text()
     except Exception as e:
@@ -157,10 +157,10 @@ async def process_rss_source(source, health_check_enabled, health_config, health
             if 'published_parsed' in entry:
                 try:
                     # 将published_parsed（UTC时间）转换为UTC日期
-                    published_utc = datetime.utcfromtimestamp(time.mktime(entry.published_parsed))
+                    published_utc = datetime.fromtimestamp(time.mktime(entry.published_parsed), datetime.timezone.utc)
                     published_date = published_utc.date()
                     # 获取当前UTC日期
-                    current_date = datetime.utcnow().date()
+                    current_date = datetime.now(datetime.timezone.utc).date()
                     
                     # 只保留今天的新闻
                     if published_date != current_date:
@@ -268,11 +268,17 @@ async def collect_rss_feeds():
     logging.info(f"总共收集到 {len(all_news)} 条新闻")
     return all_news
 
+import traceback
 def main():
     """主函数"""
     print("开始收集RSS内容...")
     # 收集RSS内容
-    news_data = asyncio.run(collect_rss_feeds())
+    try:
+        news_data = asyncio.run(collect_rss_feeds())
+    except Exception as e:
+        print(f"收集RSS时发生异常: {str(e)}")
+        traceback.print_exc()
+        sys.exit(1)
     if news_data:
         # 保存原始数据
         output_file = 'output/raw_news.json'
@@ -282,8 +288,10 @@ def main():
             print("保存原始数据失败")
             sys.exit(1)
     else:
+        # 即使没有新闻也保存空文件
+        save_json_data([], 'output/raw_news.json')
         print("未收集到任何新闻")
-        sys.exit(1)
+        sys.exit(0)
 
 if __name__ == "__main__":
     main()
