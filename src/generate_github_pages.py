@@ -82,14 +82,14 @@ def group_news_by_keywords(news_list: List[Dict[str, Any]], keywords: List[str])
 
 
 def format_date(date_str: str) -> str:
-    """Format date string for display"""
+    """Format date string for display (统一为YYYY-MM-DD格式)"""
     try:
         # Handle different date formats
         if 'T' in date_str:
             dt = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
         else:
             dt = datetime.strptime(date_str, '%a, %d %b %Y %H:%M:%S %z')
-        return dt.strftime('%Y-%m-%d %H:%M')
+        return dt.strftime('%Y-%m-%d')
     except:
         return date_str
 
@@ -359,7 +359,8 @@ def generate_html(news_data: List[Dict[str, Any]], keywords: List[str]) -> str:
             description = clean_html(news.get('description', ''))
             source = news.get('source', '未知来源')
             category = news.get('category', '未分类')
-            published = format_date(news.get('published', ''))
+            published_date = news.get('published')
+            published = format_date(published_date) if published_date else "日期缺失"
             html_content += f"""
                 <div class="news-item">
                     <div class="news-title">

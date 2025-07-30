@@ -109,7 +109,7 @@ def contains_keywords(text, keywords):
 
 
 def filter_by_keywords(news_list, keywords, exclude_keywords=None):
-    """根据关键词筛选新闻
+    """根据关键词筛选新闻（标题权重70%，描述20%，内容10%）
     Args:
         news_list (list): 新闻列表
         keywords (list): 包含关键词列表
@@ -121,19 +121,33 @@ def filter_by_keywords(news_list, keywords, exclude_keywords=None):
         return []
     if not keywords:
         return news_list
+        
     filtered = []
     for news in news_list:
         title = news.get('title', '')
         description = news.get('description', '')
         content = news.get('content', '')
         
-        # 检查是否包含关键词 (检查标题、描述和内容)
-        if contains_keywords(title, keywords) or contains_keywords(description, keywords) or contains_keywords(content, keywords):
-            # 检查是否包含排除关键词
-            if exclude_keywords:
-                if contains_keywords(title, exclude_keywords) or contains_keywords(description, exclude_keywords) or contains_keywords(content, exclude_keywords):
-                    continue
+        # 计算加权得分
+        title_score = 0.7 if contains_keywords(title, keywords) else 0
+        desc_score = 0.2 if contains_keywords(description, keywords) else 0
+        content_score = 0.1 if contains_keywords(content, keywords) else 0
+        total_score = title_score + desc_score + content_score
+        
+        # 检查排除关键词（一票否决）
+        if exclude_keywords:
+            if (contains_keywords(title, exclude_keywords) or 
+                contains_keywords(description, exclude_keywords) or 
+                contains_keywords(content, exclude_keywords)):
+                continue
+                
+        # 总分>0表示匹配成功
+        if total_score > 0:
+            news['match_score'] = total_score  # 记录匹配分数
             filtered.append(news)
+    
+    # 按匹配分数排序
+    filtered.sort(key=lambda x: x.get('match_score', 0), reverse=True)
     return filtered
 
 
