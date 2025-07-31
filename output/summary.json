@@ -1,26 +1,23 @@
 {
-  "total_news": 149,
+  "total_news": 141,
   "sources": [
-    "极客公园",
-    "财联社电报",
-    "开源中国",
-    "cnBeta全文版",
-    "动点科技",
-    "纽约时报中文网",
-    "36氪",
-    "Nutrition Research News",
-    "钛媒体",
-    "IT之家",
-    "虎嗅网",
-    "食品资讯",
-    "Journal of Human Nutrition and Dietetics",
-    "Solidot",
-    "爱范儿",
-    "Wiley: Food Science & Nutrition",
-    "199IT",
     "Wiley: Obesity",
     "Wiley: Journal of Food Science",
-    "小众软件论坛"
+    "极客公园",
+    "虎嗅网",
+    "小众软件论坛",
+    "食品资讯",
+    "钛媒体",
+    "动点科技",
+    "36氪",
+    "cnBeta全文版",
+    "199IT",
+    "纽约时报中文网",
+    "IT之家",
+    "Wiley: Food Science & Nutrition",
+    "开源中国",
+    "Journal of Human Nutrition and Dietetics",
+    "Nutrition Research News"
   ],
-  "generated_at": "2025-07-31 14:23:02"
+  "generated_at": "2025-07-31 16:28:11"
 }
