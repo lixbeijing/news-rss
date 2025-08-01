@@ -12,7 +12,7 @@ from datetime import datetime
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from feishu_notifier import FeishuNotifier
-from utils import load_json_config
+from utils import load_json_config, load_config
 
 
 def load_feishu_config():
@@ -39,7 +39,7 @@ def create_notification_summary():
             return None
         # 收集统计信息
         sources = list(set(item.get('source', '未知') for item in filtered_news))
-        keywords = load_json_config("config/keywords.json")
+        keywords = load_config("config/keywords.yaml")
         summary = {
             'date': datetime.now().strftime('%Y-%m-%d'),
             'total_collected': len(raw_news) if raw_news else 0,

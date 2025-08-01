@@ -13,7 +13,7 @@ import re
 # 添加Python路径处理
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from utils import load_config
+from utils import load_config, format_datetime, clean_html
 
 
 def load_filtered_news() -> List[Dict[str, Any]]:
@@ -81,33 +81,11 @@ def group_news_by_keywords(news_list: List[Dict[str, Any]], keywords: List[str])
     return keyword_groups
 
 
-def format_date(date_str: str) -> str:
-    """Format date string for display (统一为YYYY-MM-DD格式)"""
-    try:
-        # Handle different date formats
-        if 'T' in date_str:
-            dt = datetime.fromisoformat(date_str.replace('Z', '+00:00'))
-        else:
-            dt = datetime.strptime(date_str, '%a, %d %b %Y %H:%M:%S %z')
-        return dt.strftime('%Y-%m-%d')
-    except:
-        return date_str
-
-
 def truncate_text(text: str, max_length: int = 200) -> str:
     """Truncate text to specified length"""
     if len(text) <= max_length:
         return text
     return text[:max_length] + '...'
-
-
-def clean_html(text: str) -> str:
-    """Clean HTML tags from text"""
-    if not text:
-        return ""
-    # Remove HTML tags
-    clean = re.compile('<.*?>')
-    return re.sub(clean, '', text)
 
 
 def generate_html(news_data: List[Dict[str, Any]], keywords: List[str]) -> str:
@@ -360,7 +338,7 @@ def generate_html(news_data: List[Dict[str, Any]], keywords: List[str]) -> str:
             source = news.get('source', '未知来源')
             category = news.get('category', '未分类')
             published_date = news.get('published')
-            published = format_date(published_date) if published_date else "日期缺失"
+            published = format_datetime(published_date) if published_date else "日期缺失"
             html_content += f"""
                 <div class="news-item">
                     <div class="news-title">

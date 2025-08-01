@@ -94,20 +94,6 @@ def save_json_data(data, file_path):
         return False
 
 
-def contains_keywords(text, keywords):
-    """检查文本是否包含关键词
-    Args:
-        text (str): 要检查的文本
-        keywords (list): 关键词列表
-    Returns:
-        bool: 如果包含任一关键词返回True
-    """
-    if not text or not keywords:
-        return False
-    text_lower = text.lower()
-    return any(keyword.lower() in text_lower for keyword in keywords)
-
-
 def filter_by_keywords(news_list, keywords, exclude_keywords=None):
     """根据关键词筛选新闻（标题权重70%，描述20%，内容10%）
     Args:
@@ -121,31 +107,30 @@ def filter_by_keywords(news_list, keywords, exclude_keywords=None):
         return []
     if not keywords:
         return news_list
-        
+
     filtered = []
     for news in news_list:
-        title = news.get('title', '')
-        description = news.get('description', '')
-        content = news.get('content', '')
-        
-        # 计算加权得分
-        title_score = 0.7 if contains_keywords(title, keywords) else 0
-        desc_score = 0.2 if contains_keywords(description, keywords) else 0
-        content_score = 0.1 if contains_keywords(content, keywords) else 0
+        title = news.get('title', '').lower()
+        description = news.get('description', '').lower()
+        content = news.get('content', '').lower()
+
+        # 计算加权得分（考虑关键词频率）
+        title_score = 0.7 * sum(title.count(keyword.lower()) for keyword in keywords) / max(1, len(title.split()))
+        desc_score = 0.2 * sum(description.count(keyword.lower()) for keyword in keywords) / max(1, len(description.split()))
+        content_score = 0.1 * sum(content.count(keyword.lower()) for keyword in keywords) / max(1, len(content.split()))
         total_score = title_score + desc_score + content_score
-        
+
         # 检查排除关键词（一票否决）
         if exclude_keywords:
-            if (contains_keywords(title, exclude_keywords) or 
-                contains_keywords(description, exclude_keywords) or 
-                contains_keywords(content, exclude_keywords)):
+            if any(exclude.lower() in title or exclude.lower() in description or exclude.lower() in content for exclude in exclude_keywords):
                 continue
-                
-        # 总分>0表示匹配成功
-        if total_score > 0:
+
+        # 设置一个最小阈值以过滤掉匹配度极低的新闻
+        min_threshold = 0.01
+        if total_score > min_threshold:
             news['match_score'] = total_score  # 记录匹配分数
             filtered.append(news)
-    
+
     # 按匹配分数排序
     filtered.sort(key=lambda x: x.get('match_score', 0), reverse=True)
     return filtered
@@ -166,3 +151,18 @@ def format_datetime(dt_str, input_format="%a, %d %b %Y %H:%M:%S %z",
         return dt.strftime(output_format)
     except (ValueError, TypeError):
         return dt_str
+
+
+def clean_html(text: str) -> str:
+    """清除文本中的HTML标签
+    Args:
+        text (str): 包含HTML标签的文本
+    Returns:
+        str: 清除HTML标签后的纯文本
+    """
+    if not text:
+        return ""
+    # 移除HTML标签
+    import re
+    clean = re.compile('<.*?>')
+    return re.sub(clean, '', text)
